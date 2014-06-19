@@ -19,8 +19,9 @@ I had a great team - codeminators (Raghav , Puja and me)
 We participated in the shine.com challenge and came second.
 
 {% img /images/9.jpg  grad %}
-{% img /images/13.jpg 370 295 grad %}
-{% img /images/17.jpg 370 295 grad %}
+
+{% img /images/13.jpg 340 285 grad %}
+{% img /images/17.jpg 340 285 grad %}
 
 
 shine.com, an initiative of Hindustan Times is an online portal to find jobs. Registration pages are often lengthy , boring and time consuming. So the challenge was to make their mobile app fast, efficient and easy to use. 
@@ -33,10 +34,6 @@ shine.com, an initiative of Hindustan Times is an online portal to find jobs. Re
 This is one of the few Hackathons that provides overnight stay. It is a great experience staying up all night, coding our way out with other developers.
 
 
-{% img /images/13.jpg 370 295 grad %}
-{% img /images/17.jpg 370 295 grad %}
-
-
 They made sure they provided the fuel to keep us going - #unlimitedRedBull 
 
 {% img /images/10.jpg grad %}
@@ -44,9 +41,10 @@ They made sure they provided the fuel to keep us going - #unlimitedRedBull
 
 There were a lot of fun activities as well at regualar intervals to win goodies and relax the mind.
 
-{% img /images/19.jpg 370 295 grad %}
+{% img /images/19.jpg 330 280 grad %}
+{% img /images/15.jpg 330 280 grad %}
 {% img /images/18.jpg 370 295 grad %}
-{% img /images/15.jpg 370 295 grad %}
+
 
 This team OSC (Arnav , Umair, Saurav, Abhinav) our seniors at DTU came first in their challenge and won some cool prizes.
 
