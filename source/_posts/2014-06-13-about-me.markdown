@@ -1,0 +1,44 @@
+---
+layout: post
+title: "About Me"
+date: 2014-01-5 12:29:56 -0700
+comments: true
+categories: 
+---
+{% img left /images/dp.jpg 200 200 myphoto %}
+
+Hi,
+
+
+I am Laavanye Bahl (quite obvious), 19 years old, studying Software Engineering at Delhi Colllege of Engineering (DTU), currently in my 1st year.
+
+
+Few things I like - basketball, theatre, sketching, guitar and coding. 
+
+Just last year I graduated from Modern School, Barakhamba Road, New Delhi where I spent 13 wonderful years.
+The thing I'll always love about Modern is that it never focused only on studies. It gave the the much seeked freedom to do what you like.
+
+
+Feels like yesterday, happy kids throwing graduation hats in the air, enjoying the last few days together in the instituition.
+
+{% img centre /images/1.jpg  grad %}
+
+{% img centre /images/2.jpg  grad %}
+
+
+Selecting the college was a tough task. After irritating my seniors, friends, family and teachers for advice I finally chose DTU over HKUST.
+I always wanted to study here. This is a picture from the terrace of the astounding campus.
+
+{% img centre /images/3.jpg  grad %}
+
+
+After attending few workshops, I realized Android Development was the most interesting.
+
+I thank {%link http://blog.championswimmer.in Arnav Gupta %} for introducing android to me and for the constant help ,advice and motivation. 
+
+You can contact me at - 
+
+mail@laavanyebahl.com
+{%link https://www.facebook.com/laavanye.bahl Facebook %}
+{%link http://instagr.in/u/la_one_yay Instagram %}
+{%link https://twitter.com/LaavanyeBahl Twitter %}
