@@ -12,7 +12,7 @@ footer: true
 Hi,
 
 
-I am Laavanye Bahl (quite obvious), 19 years old, studying Software Engineering at Delhi Colllege of Engineering (DTU), currently in my 1st year.
+I am Laavanye Bahl (quite obvious), 19 year old, studying Software Engineering at Delhi Colllege of Engineering (DTU), currently in my 1st year.
 
 
 Few things I like - basketball, theatre, sketching, guitar and coding. 

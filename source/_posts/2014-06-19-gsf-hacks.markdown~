@@ -8,30 +8,25 @@ categories:
 
 GSF Hacks - April 19-20, 2014
 
-It is surely the best hackathon I've attended till now. It was hosted at Investopad which is the perfect place.
-They selected top participants from a HackerEarth coding event. Hence, it was a great to challenge.
+Hosted at Investopad, it is surely the best hackathon I've attended till now.
+They selected top participants from a HackerEarth coding event. Hence, it was challenging.
 
 GSF Accelerator is the initiative of Rajesh Sawhney, founder of GSF Superangels, a 
 network of 30 leading digital founders and investors ,the single 
 largest funding platform for the Indian start-ups.
 
-I had a great team - codeminators (Raghav , Puja and me)
-We participated in the shine.com challenge and came second.
+Our team - codeminators (Raghav , Puja and me) participated in the shine.com challenge and came second.
 
 {% img /images/9.jpg  grad %}
 
-{% img /images/13.jpg 340 285 grad %}
-{% img /images/17.jpg 340 285 grad %}
+{% img /images/13.jpg 335 280 grad %}
+{% img /images/17.jpg 350 295 grad %}
 
 
-shine.com, an initiative of Hindustan Times is an online portal to find jobs. Registration pages are often lengthy , boring and time consuming. So the challenge was to make their mobile app fast, efficient and easy to use. 
+shine.com, an initiative of Hindustan Times is an online portal for finding jobs. Registration pages are often lengthy , boring and time consuming. So the task was to make their mobile app fast, efficient and easy to use. 
 
-- 
--
--
--
 
-This is one of the few Hackathons that provides overnight stay. It is a great experience staying up all night, coding our way out with other developers.
+This is one of the few Hackathons that provides overnight stay. It was an amazing experience staying up all night, coding our way out with other developers.
 
 
 They made sure they provided the fuel to keep us going - #unlimitedRedBull 
@@ -44,10 +39,28 @@ There were a lot of fun activities as well at regualar intervals to win goodies 
 {% img /images/19.jpg 330 280 grad %}
 {% img /images/15.jpg 330 280 grad %}
 {% img /images/18.jpg 370 295 grad %}
+{% img /images/12.jpg 370 295 grad %}
 
 
-This team OSC (Arnav , Umair, Saurav, Abhinav) our seniors at DTU came first in their challenge and won some cool prizes.
 
-{% img /images/20.jpg 370 295 grad %}
+Team OSC (Arnav , Umair, Saurav, Abhinav), our seniors at DTU came first in their challenge and won some cool prizes. 
 
+{% img /images/20.jpg 400 310 grad %}
+
+We also got the oppurtunity to watch Jimi Hendrix live.
+
+{% img /images/21.jpg 290 340 grad %}
+
+Some features of our app :
+
+- An OCR to read CV images/Pdf and parse the useful information.
+- Filling the Registration page via a Siri like Voice Assistant, 
+  question after question
+- Skipping questions belonging to a particular category, if that 
+  category didn't satisfy.
+- Feature to record an SOP so that the recruiter can test the   
+  employee's speaking skills
+
+
+You can find the code on {%link https://github.com/team-LRP/shinedotcom GitHub %}
 
