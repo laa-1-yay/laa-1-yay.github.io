@@ -58,7 +58,7 @@ Some features of our app :
   question after question
 - Skipping questions belonging to a particular category, if that 
   category didn't satisfy.
-- Feature to record an SOP so that the recruiter can test the   
+- Feature to record a SOP so that the recruiter can test the   
   employee's speaking skills
 
 
