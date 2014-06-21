@@ -17,8 +17,10 @@ This will always be important as it gave us the required boost and motivation.
 {% img /images/5.jpg 380 310 grad %}
 
 
+{% img /images/24.jpg 360 290 grad %}
+{% img /images/23.jpg 370 300 grad %}
 
-
+There were also a lot of interesting workshops , talks and sessions.
 
 In those 36 hrs we developed Baba Predicton which is basically an app for leisure. You ask a question about the Future in Yes or No and get the answer in terms of a humorous song. Often simple funny things go viral, right ? ;)
 

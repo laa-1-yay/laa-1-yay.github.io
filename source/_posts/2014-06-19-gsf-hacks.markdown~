@@ -45,7 +45,8 @@ There were a lot of fun activities as well at regualar intervals to win goodies 
 
 Team OSC (Arnav , Umair, Saurav, Abhinav), our seniors at DTU came first in their challenge and won some cool prizes. 
 
-{% img /images/20.jpg 400 310 grad %}
+{% img /images/20.jpg 370 310 grad %}
+{% img /images/22.jpg 370 310 grad %}
 
 We also got the oppurtunity to watch Jimi Hendrix live.
 
@@ -55,11 +56,11 @@ Some features of our app :
 
 - An OCR to read CV images/Pdf and parse the useful information.
 - Filling the Registration page via a Siri like Voice Assistant, 
-  question after question
+  question after question.
 - Skipping questions belonging to a particular category, if that 
-  category didn't satisfy.
+  category doesn't satisfy.
 - Feature to record a SOP so that the recruiter can test the   
-  employee's speaking skills
+  employee's speaking skills.
 
 
 You can find the code on {%link https://github.com/team-LRP/shinedotcom GitHub %}
