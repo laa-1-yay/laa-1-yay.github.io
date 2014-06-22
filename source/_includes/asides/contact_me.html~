@@ -1,5 +1,13 @@
 <section>
   <h1>Contact me</h1>
+   <ul>
+
+   <li> mail@laavanyebahl.com </li> 
+   <li><a href = "https://www.facebook.com/laavanye.bahl" ><img src = " /images/fb.png" border="0" style="border:none;"  /></a>
+   <a href = "http://instagr.in/u/la_one_yay" ><img src = " /images/insta.png" border="0" style="border:none;"  /></a>
+   <a href = "https://twitter.com/LaavanyeBahl" ><img src = " /images/twi.png" border="0" style="border:none;"  /></a>
+   </li>
+   </ul>
   
 </section>
 

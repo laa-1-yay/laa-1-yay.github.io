@@ -2,10 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://laavanyebahl.com
-url: http://blog.laavanyebahl.com
-url: http://www.laavanyebahl.com
-
+url: http://laavanyebahl.com  
 
 title: Laavanye Bahl
 subtitle: A blog about my projects.
@@ -61,11 +58,11 @@ default_asides: [asides/contact_me.html, asides/recent_posts.html, asides/twitte
 # Each layout uses the default asides, but they can have their own asides instead. Simply uncomment the lines below
 # and add an array with the asides you want to use.
 
-blog_index_asides: [asides/contact_me.html, asides/recent_posts.html, asides/github.html, asides/delicious.html, asides/pinboard.html, asides/googleplus.html, asides/twitter.html]
+blog_index_asides: [asides/contact_me.html, asides/recent_posts.html, asides/github.html, asides/delicious.html, asides/pinboard.html, asides/googleplus.html, asides/twitter.html ]
 
-post_asides: [asides/contact_me.html, asides/recent_posts.html, asides/github.html, asides/delicious.html, asides/pinboard.html, asides/googleplus.html, asides/twitter.html]
+post_asides: [asides/contact_me.html, asides/recent_posts.html, asides/github.html, asides/delicious.html, asides/pinboard.html, asides/googleplus.html, asides/twitter.html ]
 
-page_asides: [asides/contact_me.html, asides/recent_posts.html, asides/github.html, asides/delicious.html, asides/pinboard.html, asides/googleplus.html, asides/twitter.html]
+page_asides: [asides/contact_me.html, asides/recent_posts.html, asides/github.html, asides/delicious.html, asides/pinboard.html, asides/googleplus.html, asides/twitter.html ]
 
 # ----------------------- #
 #   3rd Party Settings    #

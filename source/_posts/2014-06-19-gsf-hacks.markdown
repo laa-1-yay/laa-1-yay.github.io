@@ -17,10 +17,10 @@ largest funding platform for the Indian start-ups.
 
 Our team - codeminators (Raghav , Puja and me) participated in the shine.com challenge and came second.
 
-{% img /images/9.jpg  grad %}
+{% img /images/9.jpg  %}
 
-{% img /images/13.jpg 335 280 grad %}
-{% img /images/17.jpg 350 295 grad %}
+{% img /images/13.jpg   %}
+{% img /images/17.jpg  %}
 
 
 shine.com, an initiative of Hindustan Times is an online portal for finding jobs. Registration pages are often lengthy , boring and time consuming. So the task was to make their mobile app fast, efficient and easy to use. 
@@ -31,26 +31,26 @@ This is one of the few Hackathons that provides overnight stay. It was an amazin
 
 They made sure they provided the fuel to keep us going - #unlimitedRedBull 
 
-{% img /images/10.jpg grad %}
+{% img /images/10.jpg  %}
 
 
 There were a lot of fun activities as well at regualar intervals to win goodies and relax the mind.
 
-{% img /images/19.jpg 330 280 grad %}
-{% img /images/15.jpg 330 280 grad %}
-{% img /images/18.jpg 370 295 grad %}
-{% img /images/12.jpg 370 295 grad %}
+{% img /images/19.jpg %}
+{% img /images/15.jpg  %}
+{% img /images/18.jpg  %}
+{% img /images/12.jpg %}
 
 
 
 Team OSC (Arnav , Umair, Saurav, Abhinav), our seniors at DTU came first in their challenge and won some cool prizes. 
 
-{% img /images/20.jpg 370 310 grad %}
-{% img /images/22.jpg 370 310 grad %}
+{% img /images/20.jpg  %}
+{% img /images/22.png  %}
 
 We also got the oppurtunity to watch Jimi Hendrix live.
 
-{% img /images/21.jpg 290 340 grad %}
+{% img /images/21.jpg %}
 
 Some features of our app :
 

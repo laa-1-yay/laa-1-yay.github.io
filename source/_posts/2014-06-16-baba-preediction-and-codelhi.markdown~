@@ -13,20 +13,20 @@ This will always be important as it gave us the required boost and motivation.
 
 
 
-{% img /images/4.jpg 355 280 grad %}
-{% img /images/5.jpg 380 310 grad %}
+{% img /images/4.jpg   %}
+{% img /images/5.jpg   %}
 
 
-{% img /images/24.jpg 360 290 grad %}
-{% img /images/23.jpg 370 300 grad %}
+{% img /images/24.png  %}
+{% img /images/23.png  %}
 
 There were also a lot of interesting workshops , talks and sessions.
 
 In those 36 hrs we developed Baba Predicton which is basically an app for leisure. You ask a question about the Future in Yes or No and get the answer in terms of a humorous song. Often simple funny things go viral, right ? ;)
 
-{% img  /images/6.jpg 240 450 grad %}
-{% img  /images/7.jpg 240 450 grad %}
-{% img  /images/8.jpg 240 450 grad %}
+{% img  /images/6.jpg  %}
+{% img  /images/7.jpg   %}
+{% img  /images/8.jpg   %}
 
 
 We'll upload it on Play store soon after expanding our data base.

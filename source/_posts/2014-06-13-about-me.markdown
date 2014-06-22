@@ -5,7 +5,7 @@ date: 2014-01-5 12:29:56 -0700
 comments: true
 categories: [General, Introduction, School, College]
 ---
-{% img left /images/dp.jpg 200 200 myphoto %}
+{% img left /images/dp.jpg myphoto %}
 
 Hi,
 
@@ -29,7 +29,7 @@ Feels like yesterday, happy kids throwing graduation hats in the air, enjoying t
 Selecting the college was a tough task. After irritating my seniors, friends, family and teachers for advice I finally chose DTU over HKUST.
 I always wanted to study here. This is a picture from the terrace of the astounding campus.
 
-{% img centre /images/3.jpg  grad %}
+{% img centre /images/3.jpg  %}
 
 
 After attending few workshops, I realized Android Development was the most interesting.
