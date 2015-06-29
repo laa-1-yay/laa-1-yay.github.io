@@ -12,7 +12,7 @@ Chestream and AngelHack, Delhi - June 20-21, 2015
 
 {% img  /images/angelhack.png  %}
 
-With a total participation of 42 teams, this was more than just a normal Hackathon, as the winners would get an invite for the HACKcelerator program and an opportunity to present their project at the AngelHack’s global event to be held in Silicon Valley.
+With a total participation of 42 teams, this was more than just a normal Hackathon, as the winners would get an invite to the HACKcelerator program and an opportunity to present their project at the AngelHack’s global event to be held in Silicon Valley.
 There were also prizes for different categories like Amazon, HP, Mozilla, Clusterpoint, Branch.io and IBM Bluemix, where you had to use their technology innovatively and efficiently.
 
 We had a balanced team of 5 people : Saurav Tomar, Umair Khan, Naman Dwivedi, Prempal Singh and I, strong in Android dev, UI/UX design and backend tech.
@@ -28,7 +28,7 @@ An upvoting system ensures that the creamy layer of the videos is prevalent. So 
 Motivation: Content on apps like Meerkat and Periscope is increasing exponentially, and quality is not assured. Since this is non-archival content, it has only immediate value. 
 Chestream's social network is similar to Tumblr / Reddit and is one to many in nature. 
 
-Judges were impressed, when we pitched it infront of them and shortlisted us. In the second round, we gave answers to the various questions they asked and won their confident. They liked the concept and found very different and exciting. Ultimately we won AngelHack, Delhi as well as the Clusterpoint hack Challenge.
+Judges were impressed, when we pitched our project and shortlisted us. In the second round, we answered the various questions raised and won their confidence. They liked the concept and found it very different and exciting. Ultimately we won the Hackathon as well as the Clusterpoint challenge, got an invite to HACKcelerator program, opportunity to present our app at the Global Demo Day in Silicon Valley, California and a smartwatch. 
 
 {% img  /images/chestreamteam.jpg   %}
 
