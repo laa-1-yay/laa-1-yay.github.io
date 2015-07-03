@@ -1,0 +1,35 @@
+---
+layout: post
+title: "StampU"
+date: 2015-02-12 12:29:58 -0700
+comments: true
+categories: [Internships, Android, App]
+---
+
+StampU - India's first stamp based reward program
+
+Developed this app along with Kshitij Mehra and Anirudh Mondal. I am the Chief Software Developer and made the whole app (both front-end and back-end) myself with the valuable inputs from Kshitij and Anirudh. Kshitij and Anirudh handle the Marketing and Operations of the app.
+
+{% img  /images/1-min.jpg   %}
+{% img  /images/2-min.jpg   %}
+{% img  /images/3-min.jpg   %}
+{% img  /images/4-min.jpg   %}
+{% img  /images/5-min.jpg   %}
+{% img  /images/6-min.jpg   %}
+
+Some features of our app :
+
+- Earn stamps on every visit at your favorite outlets and redeem for exciting rewards.
+- Choices made easy- Find the location of your favorite locations through Google maps, address listing, browse through outlet photos, check out the Facebook page instantly on app for quick reviews and offers, know the loyalty rewards and make your choices better.
+- Simple Way to Remain loyal- Forget the old complexities of points and cash back . Simply scan the QR card at the outlet to earn one stamp per visit and redeem for premium and exciting rewards exclusive for our users.
+- Rewards for first visit too
+- Instant Gratification- No need of coupon codes or other redemption hassles.Simply show the mobile to the waiter to get the rewards instantly.
+- Simple User Interface and Multiple Login Options- The UI is easy to understand and sign up is easy with Google or Facebook accounts
+- One account, unlimited possibilities- Keep track of all your stamps at all your favorite outlets on your phone.
+- Never miss out on a chance to earn your stamp again because now everything is right there on your phone.
+- No need of fiddling with manual stamp cards anymore.
+- 24X7 Customer Care- We provide support through email phone and in app forms to address any of your problems as soon as possible.
+
+
+You can get download the app from  {%link https://play.google.com/store/apps/details?id=com.app.stampu&hl=en Playstore %}.
+

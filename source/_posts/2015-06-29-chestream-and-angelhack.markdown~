@@ -34,7 +34,7 @@ Judges were impressed, when we pitched our project and shortlisted us. In the se
 
 Some features of our app :
 
-- A streaming app that works on all networks, even 3G.
+- A streaming app that works on all networks, even 3G (at 512 kbps).
 - Upvote the streams you like.
 - Only the most top voted streams get played, in descending order of upvotes.
 - Dyanamic comments on the stream.
