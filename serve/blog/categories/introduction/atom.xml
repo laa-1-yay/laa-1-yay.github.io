@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Introduction | Laavanye Bahl]]></title>
+  <link href="http://laavanyebahl.com/blog/categories/introduction/atom.xml" rel="self"/>
+  <link href="http://laavanyebahl.com/"/>
+  <updated>2015-07-03T23:04:20+05:30</updated>
+  <id>http://laavanyebahl.com/</id>
+  <author>
+    <name><![CDATA[Laavanye Bahl]]></name>
+    <email><![CDATA[mail@laavanyebahl.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[About Me]]></title>
+    <link href="http://laavanyebahl.com/blog/2014/01/06/about-me/"/>
+    <updated>2014-01-06T00:59:56+05:30</updated>
+    <id>http://laavanyebahl.com/blog/2014/01/06/about-me</id>
+    <content type="html"><![CDATA[<p><img class="left" src="/images/dp.jpg" title="myphoto" ></p>
+
+<p>Hi,</p>
+
+<p>I am Laavanye Bahl (quite obvious), 19 year old, studying Software Engineering at Delhi Colllege of Engineering (DTU), currently in my 1st year.</p>
+
+<p>Few things I like &ndash; basketball, theatre, sketching, guitar and coding.</p>
+
+<p>Just last year I graduated from Modern School, Barakhamba Road, New Delhi where I spent 13 wonderful years.
+The thing I&rsquo;ll always love about Modern is that it never focused only on studies. It gave the the much seeked freedom to do what you like.</p>
+
+<p>Feels like yesterday, happy kids throwing graduation hats in the air, enjoying the last few days together in the instituition.</p>
+
+<p><img class="centre" src="/images/1.jpg" title="grad" ></p>
+
+<p><img class="centre" src="/images/2.jpg" title="grad" ></p>
+
+<p>Selecting the college was a tough task. After irritating my seniors, friends, family and teachers for advice I finally chose DTU over HKUST.
+I always wanted to study here. This is a picture from the terrace of the astounding campus.</p>
+
+<p><img class="centre" src="/images/3.jpg" title="" ></p>
+
+<p>After attending few workshops, I realized Android Development was the most interesting.</p>
+
+<p>I thank <a href="href="http://blog.championswimmer.in">http://blog.championswimmer.in</a>"  <a target="_blank">Arnav Gupta</a> for introducing android to me and for the constant help ,advice and motivation.</p>
+
+<p>You can contact me at &ndash;</p>
+
+<p><a href="&#109;&#x61;&#105;&#x6c;&#x74;&#111;&#58;&#x6d;&#x61;&#105;&#x6c;&#64;&#108;&#97;&#97;&#118;&#97;&#110;&#x79;&#101;&#98;&#97;&#104;&#x6c;&#46;&#x63;&#x6f;&#x6d;">&#x6d;&#97;&#x69;&#x6c;&#x40;&#x6c;&#x61;&#x61;&#x76;&#x61;&#110;&#x79;&#101;&#x62;&#x61;&#104;&#108;&#x2e;&#99;&#111;&#109;</a>
+<a href="href="https://www.facebook.com/laavanye.bahl">https://www.facebook.com/laavanye.bahl</a>"  <a target="_blank">Facebook</a>
+<a href="href="http://instagr.in/u/la_one_yay">http://instagr.in/u/la_one_yay</a>"  <a target="_blank">Instagram</a>
+<a href="href="https://twitter.com/LaavanyeBahl">https://twitter.com/LaavanyeBahl</a>"  <a target="_blank">Twitter</a></p>
+]]></content>
+  </entry>
+  
+</feed>

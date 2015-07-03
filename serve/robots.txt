@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://laavanyebahl.com/sitemap.xml 

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: GDG | Laavanye Bahl]]></title>
+  <link href="http://laavanyebahl.com/blog/categories/gdg/atom.xml" rel="self"/>
+  <link href="http://laavanyebahl.com/"/>
+  <updated>2015-07-03T23:05:25+05:30</updated>
+  <id>http://laavanyebahl.com/</id>
+  <author>
+    <name><![CDATA[Laavanye Bahl]]></name>
+    <email><![CDATA[mail@laavanyebahl.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Baba Prediction and CoDelhi]]></title>
+    <link href="http://laavanyebahl.com/blog/2014/03/23/baba-preediction-and-codelhi/"/>
+    <updated>2014-03-23T01:38:21+05:30</updated>
+    <id>http://laavanyebahl.com/blog/2014/03/23/baba-preediction-and-codelhi</id>
+    <content type="html"><![CDATA[<p>CoDelhi &ndash; This was our first Hackathon organized at DTU in association with the Google Developer Groups.</p>
+
+<p>We formed our team &ndash; initially called &ldquo;codeminators&rdquo; that included Raghav, Puja, Anshul and me and came 2nd in this event.
+This will always be important as it gave us the required boost and motivation.</p>
+
+<p><img src="/images/4.jpg" title="" >
+<img src="/images/5.jpg" title="" ></p>
+
+<p><img src="/images/24.png" title="" >
+<img src="/images/23.png" title="" ></p>
+
+<p>There were also a lot of interesting workshops , talks and sessions.</p>
+
+<p>In those 36 hrs we developed Baba Predicton which is basically an app for leisure. You ask a question about the Future in Yes or No and get the answer in terms of a humorous song. Often simple funny things go viral, right ? ;)</p>
+
+<p><img src="/images/6.jpg" title="" >
+<img src="/images/7.jpg" title="" >
+<img src="/images/8.jpg" title="" ></p>
+
+<p>We&rsquo;ll upload it on Play store soon after expanding our data base.</p>
+]]></content>
+  </entry>
+  
+</feed>
