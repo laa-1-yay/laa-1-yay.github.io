@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Mypoolin - Plan &amp; Pay Money with Friends"
@@ -11,12 +10,13 @@ Mypoolin - Plan &amp; Pay Money with Friends
 
 I did my winter internship at Mypoolin and developed the android app along with Archit Verma on the backend. It was great working with the founders : Ankit Singh and Rohit Taneja, learning new things everday.
 
-{% img  /images/mypoolin_converted.jpg  150 236 %}
-{% img  /images/mypoolin_converted2.jpg.jpg 150 236  %}
-{% img  /images/mypoolin_converted3.jpg.jpg  150 236 %}
-{% img  /images/mypoolin_converted4.jpg.jpg 150 236  %}
-{% img  /images/mypoolin_converted5.jpg.jpg 150 236  %}
-{% img  /images/mypoolin_converted6.jpg.jpg 150 236  %}
+
+{% img  /images/mypoolin2_converted-min.jpg 200 314  %}
+{% img  /images/mypoolin_converted-min.jpg  185 290 %}
+{% img  /images/mypoolin3_converted-min.jpg 200 314 %}
+{% img  /images/mypoolin4_converted-min.jpg 200 314  %}
+{% img  /images/mypoolin5_converted-min.jpg 200 314  %}
+{% img  /images/mypoolin6_converted-min.jpg 200 314  %}
 
 MyPoolin is your place to plan and pay money with friends in the most awesome and seamless manner possible.
  
