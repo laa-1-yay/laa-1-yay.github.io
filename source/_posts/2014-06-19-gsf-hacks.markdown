@@ -3,7 +3,7 @@ layout: post
 title: "GSF Hacks"
 date: 2014-04-21 12:29:58 -0700
 comments: true
-categories: [Hackathon, Android, App]
+categories: [hackathon, android, app]
 ---
 
 GSF Hacks - April 19-20, 2014

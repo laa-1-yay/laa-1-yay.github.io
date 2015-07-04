@@ -3,7 +3,7 @@ layout: post
 title: "Baba Prediction and CoDelhi"
 date: 2014-03-22 13:08:21 -0700
 comments: true
-categories: [Hackathon , Android, Baba Prediction, App, GDG]
+categories: [hackathon , android, app, gdg]
 ---
 
 CoDelhi - This was our first Hackathon organized at DTU in association with the Google Developer Groups.

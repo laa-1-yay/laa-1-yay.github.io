@@ -1,44 +1,67 @@
 ---
 layout: post
-title: "Chestream and AngelHack, Delhi"
-date: 2015-06-21 12:29:58 -0700
+title: "GSF Hacks"
+date: 2014-04-21 12:29:58 -0700
 comments: true
 categories: [Hackathon, Android, App]
 ---
 
-Chestream and AngelHack, Delhi - June 20-21, 2015
+GSF Hacks - April 19-20, 2014
 
-{%link http://angelhack.com AngelHack %} is the biggest Global Hackthon Series in the world hosted every year at over 25 cities including LA, Hong Kong, London, Abu Dhabi, India, Silicon Valley, Tokyo, Cairo, Zurich, Moscow, Bangok, etc.
+Hosted at Investopad, it is surely the best hackathon I've attended till now.
+They selected top participants from a HackerEarth coding event. Hence, it was challenging.
 
-This was more than just a normal Hackathon, as the winners would get an invite for the HACKcelerator program and an opportunity to present themselves at the AngelHack’s global event to be held in Silicon Valley.
+GSF Accelerator is the initiative of Rajesh Sawhney, founder of GSF Superangels, a 
+network of 30 leading digital founders and investors ,the single 
+largest funding platform for the Indian start-ups.
 
-There were also prizes for different categories like Amazon, HP, Mozilla, Clusterpoint, Branch.io and IBM Bluemix, where you had to use their technology innovatively and efficiently.
+Our team - codeminators (Raghav , Puja and me) participated in the shine.com challenge and came second.
 
-We had a balanced team of 5 people : Saurav Tomar, Umair Khan, Naman Dwivedi, Prempal Singh and I ; strong in Android Dev, UI/UX Design and Backend Tech.
+{% img /images/9.jpg  %}
 
-Over 30 hours (overnight), we developed {%link http://chestream.com Chestream %} a new social network around video streaming.
+{% img /images/13.jpg   %}
+{% img /images/17.jpg  %}
 
-Chestream is like Meerkat/ Periscope, but is linear and synchronous, i.e. only one person streams at a given time, and who gets to stream is decided by the number of upvotes, they've got on their stream description and teaser(GIF) prior to them going live. As soon as one stream gets over, the next one is loaded.
 
-An upvoting system ensures that the creamy layer of the videos is prevalent. So people will view the same content all around the world, not limited by demographics and social circle, upvoted by all unanimously. 
+shine.com, an initiative of Hindustan Times is an online portal for finding jobs. Registration pages are often lengthy , boring and time consuming. So the task was to make their mobile app fast, efficient and easy to use. 
 
-Motivation: Content on apps like Meerkat and Periscope is increasing exponentially, and quality is not assured. Since this is non-archival content, it has only immediate value. 
-
-The idea behind this project was derived from the act of recording videos live from your device kept in your t-shirt pocket. i.e. to share with the world, the things you like, as you see them.
-
-Chestream's social network is similar to Tumblr / Reddit and is one to many in nature. 
-
-Currently it's an android app with the server side code written on flask framework using python and Clusterpoint was used as No SQL data base provider.
 
 This is one of the few Hackathons that provides overnight stay. It was an amazing experience staying up all night, coding our way out with other developers.
 
 
+They made sure they provided the fuel to keep us going - #unlimitedRedBull 
+
+{% img /images/10.jpg  %}
+
+
+There were a lot of fun activities as well at regualar intervals to win goodies and relax the mind.
+
+{% img /images/19.jpg %}
+{% img /images/15.jpg  %}
+{% img /images/18.jpg  %}
+{% img /images/12.jpg %}
+
+
+
+Team OSC (Arnav , Umair, Saurav, Abhinav), our seniors at DTU came first in their challenge and won some cool prizes. 
+
+{% img /images/20.jpg  %}
+{% img /images/22.png  %}
+
+We also got the oppurtunity to watch Jimi Hendrix live.
+
+{% img /images/21.jpg %}
+
 Some features of our app :
 
-- A streaming app that works on all networks, even 3G.
-- Upvote the streams you like.
-- Only the most top voted streams get played, in descending order of upvotes.
-- 
+- An OCR to read CV images/Pdf and parse the useful information.
+- Filling the Registration page via a Siri like Voice Assistant, 
+  question after question.
+- Skipping questions belonging to a particular category, if that 
+  category doesn't satisfy.
+- Feature to record a SOP so that the recruiter can test the   
+  employee's speaking skills.
 
-We are trying our best to release the beta version as soon as possible. You can get the latest updates at {%link http://chestream.com chestream.com %}.
+
+You can find the code on {%link https://github.com/team-LRP/shinedotcom GitHub %}
 

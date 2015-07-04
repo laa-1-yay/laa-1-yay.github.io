@@ -3,7 +3,7 @@ layout: post
 title: "Chestream and AngelHack, Delhi"
 date: 2015-06-21 12:29:58 -0700
 comments: true
-categories: [Hackathon, Android, App]
+categories: [Startups, Hackathon, Android, App]
 ---
 
 Chestream and AngelHack, Delhi - June 20-21, 2015
