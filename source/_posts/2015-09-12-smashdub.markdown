@@ -1,0 +1,47 @@
+---
+layout: post
+title: "Smashdub"
+date: 2015-08-01 12:29:58 -0700
+comments: true
+categories: [startups, android, app]
+---
+
+In today's generation, you name a service and there's an app for it, but there are a very few light hearted fun apps which exploit humour.
+
+Whenever I used to talk to my friends about my apps , I  got suggestions to make something for the youth, which is lively, cheerful, basically a leisure app for past time.
+So I wanted to develop something different than a game or service oriented app : what our generation people wanted !
+
+I saw the exponenetial growth and boom of Dubsmash and one day it clicked to me !
+Why can't we just do the opposite ??
+Take a sample video and just dub your voice !
+Being actively involved in theatre , I always loved doing mimicry of various actors. It is one of the most popular hobbies. Be it Shah Rukh Khan's kkk .. Kiran or Salman Khan's commitment, it's always fun to immitate your favorite celebrity.
+People have been doing it since centuries. Why not just automate and make it easy and convinient ?
+
+The App is called Smashdub - your mimicry partner ! 
+You can seemlessly add your voice to GIFs and Videos.
+Download it for android from {%link https://play.google.com/store/apps/details?id=smashdub.laav.com.smashdub&hl=en Playstore %}
+
+
+{% img  /images/smashdub3.png  %}
+{% img  /images/smashdub1.png   %}
+{% img  /images/smashdub4.png   %}
+{% img  /images/smashdub2.png   %}
+{% img  /images/smashdub5.png   %}
+
+
+Some features :
+
+- Large collection of GIFs and Videos.
+- Search for actors , dialogues, movies, shows, etc.
+- Fast and very easy to use.
+- Share your Dubs with friends on various platforms.
+- Capture or add videos from gallery.
+- Share your dubs with the SmashDub community - a whole social network around it.
+
+{%link https://www.facebook.com/smashdubmimicry FacebookPage %}
+
+{%link https://instagram.com/officialsmashdub/ InstagramPage %}
+
+
+
+

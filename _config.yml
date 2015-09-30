@@ -18,9 +18,9 @@ date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
 subscribe_rss: /atom.xml
-subscribe_email: mail@laavanyebahl.com
+subscribe_email: laavanye.bahl@gmail.com
 # RSS feeds can list your email address if you like
-email: mail@laavanyebahl.com
+email: laavanye.bahl@gmail.com
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -69,8 +69,8 @@ page_asides: [asides/contact_me.html, asides/recent_posts.html, asides/github.ht
 # ----------------------- #
 
 # Github repositories
-github_user:
-github_repo_count: 0
+github_user: laa-1-yay
+github_repo_count: 5
 github_show_profile_link: true
 github_skip_forks: false
 

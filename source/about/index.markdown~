@@ -7,7 +7,7 @@ footer: true
 ---
 
 
-{% img left /images/dp.jpg 200 200 myphoto %}
+{% img left /images/dp.jpg myphoto %}
 
 Hi,
 
@@ -23,15 +23,15 @@ The thing I'll always love about Modern is that it never focused only on studies
 
 Feels like yesterday, happy kids throwing graduation hats in the air, enjoying the last few days together in the instituition.
 
-{% img centre /images/1.jpg  grad %}
+{% img centre /images/1.jpg   %}
 
-{% img centre /images/2.jpg  grad %}
+{% img centre /images/2.jpg  %}
 
 
 Selecting the college was a tough task. After irritating my seniors, friends, family and teachers for advice I finally chose DTU over HKUST.
 I always wanted to study here. This is a picture from the terrace of the astounding campus.
 
-{% img centre /images/3.jpg  grad %}
+{% img centre /images/3.jpg   %}
 
 
 After attending few workshops, I realized Android Development was the most interesting.

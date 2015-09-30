@@ -40,7 +40,7 @@ I thank {%link http://blog.championswimmer.in Arnav Gupta %} for introducing and
 
 You can contact me at - 
 
-mail@laavanyebahl.com
+laavanye.bahl@gmail.com
 {%link https://www.facebook.com/laavanye.bahl Facebook %}
 {%link http://instagr.in/u/la_one_yay Instagram %}
 {%link https://twitter.com/LaavanyeBahl Twitter %}

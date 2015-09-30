@@ -3,8 +3,6 @@
 # ----------------------- #
 
 url: http://laavanyebahl.com
-url: http://www.laavanyebahl.com
-
 
 title: Laavanye Bahl
 subtitle: A blog about my projects.
@@ -71,8 +69,8 @@ page_asides: [asides/contact_me.html, asides/recent_posts.html, asides/github.ht
 # ----------------------- #
 
 # Github repositories
-github_user:
-github_repo_count: 0
+github_user: laa-1-yay
+github_repo_count: 5
 github_show_profile_link: true
 github_skip_forks: false
 
