@@ -1,0 +1,48 @@
+---
+layout: post
+title: "GSoC with Dhis2 : Community bonding"
+date: 2016-05-28 16:27:35 +0530
+comments: true
+categories: [Google Summer Of Code, android, Open Source]
+---
+
+{% img center /images/gsocbanner.png  %}
+
+Hi,
+
+I am overwhelmed to get selected for GSoC 2016. I would be working with the {%link https://www.dhis2.org/ DHIS2 %} organization.
+
+It is the preferred health management information system in 47 countries and 23 organizations across four continents. DHIS 2 helps governments and health organizations to manage their operations more effectively, monitor processes and improve communication.
+
+{% img center /images/dhis2.jpg  %}
+
+My project is : {%link  https://summerofcode.withgoogle.com/projects/#5382475769446400 Enhancing Dashboard Android App %}.  Current version of DHIS2 android dashboard application uses static images/HTML pages to represent information, which is limiting compared to the web version which allows to drill down into data.
+
+Following are some of the areas I would be working on :
+
+- Reimplementing syncing logic with the general sdk
+- Generating the analytical objects dynamically
+- Making the app work in the offline mode
+- Many other UI/UX improvements
+
+Dashboard app is intended for organizing and to provide quick access to different analytical objects (maps, charts, reports, tables, etc) to an individual user. 
+
+It has been developed for Web, Desktop and Mobile. 
+The various applications can be downloaded from {%link https://www.dhis2.org/downloads here %}
+
+
+Community Bonding period was used for :
+
+- Introduction
+- Know more about the community
+- Study the code 
+- Read documentations 
+- Discussing timeline with the mentor
+
+I would like to thank my mentor Araz Abishov for the continuous guidance.
+
+It feels great to be a part of a community of active developers and members working on development and implementation of health information systems across the world and I hope to complete the project with meaningful contributions.
+
+The projects of other contributors can be found in this {%link  https://medium.com/dhis-2-summer-of-code publication %}
+
+
