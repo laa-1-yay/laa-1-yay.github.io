@@ -5,19 +5,20 @@ date: 2014-01-5 12:29:56 -0700
 comments: true
 categories: [general, introduction, school, college]
 ---
-{% img left /images/dp.jpg myphoto %}
+{% img left /images/dp2.jpg myphoto %}
 
 Hi,
 
+I am Laavanye Bahl (quite obvious), 21 year old, studying Software Engineering at Delhi Colllege of Engineering (DTU), currently in my final year.
+I am a developer with 3 years of experience, especially Android and like to discover new technologies and things in general.
 
-I am Laavanye Bahl (quite obvious), 19 year old, studying Software Engineering at Delhi Colllege of Engineering (DTU), currently in my 1st year.
+Talking about my latest work,
+I completed my Google Summer of Code project recently and here is the link to the blog : {%link https://www.facebook.com/laavanye.bahl GSoC Final Submission %}
 
-
-Few things I like - basketball, theatre, sketching, guitar and coding. 
+**P.S.** - I had started this blog in my 1st year with some introductory information written below :p
 
 Just last year I graduated from Modern School, Barakhamba Road, New Delhi where I spent 13 wonderful years.
 The thing I'll always love about Modern is that it never focused only on studies. It gave the the much seeked freedom to do what you like.
-
 
 Feels like yesterday, happy kids throwing graduation hats in the air, enjoying the last few days together in the instituition.
 
@@ -25,20 +26,19 @@ Feels like yesterday, happy kids throwing graduation hats in the air, enjoying t
 
 {% img centre /images/2.jpg  grad %}
 
-
-Selecting the college was a tough task. After irritating my seniors, friends, family and teachers for advice I finally chose DTU over HKUST.
-I always wanted to study here. This is a picture from the terrace of the astounding campus.
+Selecting the college was a tough task. After irritating my seniors, friends, family and teachers for advice I finally chose DTU over HKUST. I always wanted to study here. 
+This is a picture from the terrace of the astounding campus.
 
 {% img centre /images/3.jpg  %}
 
+Not lately, but I've always tried to take out time for some of my interests like – basketball, theatre, sketching and playing the acoustic guitar.
 
-After attending few workshops, I realized Android Development was the most interesting.
-
-I thank {%link http://blog.championswimmer.in Arnav Gupta %} for introducing android to me and for the constant help ,advice and motivation. 
 
 You can contact me at - 
 
-mail@laavanyebahl.com
-{%link https://www.facebook.com/laavanye.bahl Facebook %}
-{%link http://instagr.in/u/la_one_yay Instagram %}
-{%link https://twitter.com/LaavanyeBahl Twitter %}
+laavanye.bahl@gmail.com  
+{%link https://www.facebook.com/laavanye.bahl Facebook %}  
+{%link https://www.instagram.com/laavanyebahl Instagram %}  
+{%link https://twitter.com/LaavanyeBahl Twitter %}  
+{%link https://in.linkedin.com/in/laavanyebahl LinkedIn %}  
+{%link https://github.com/laa-1-yay Github %}
