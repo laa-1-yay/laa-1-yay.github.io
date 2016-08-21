@@ -8,16 +8,16 @@ categories: [Google Summer Of Code, android, Open Source]
 ---
 
 
-{% img center /images/gsocbanner.png  %}
+{% img center /images/gsoc2.png  %}
 
 Hi,
+
 This is a blog post about my work, which I did during Google Summer of Code, 2016 with DHIS2 (District Health Information System).
 
 So, the 3 month long program finally comes to an end !
 
-It has been a really good experience working with the open source community, and it's exciting to see the project meet it's requirements.
+It has been a really good experience working with the open source community, and it's exciting to see the project meet its requirements.
 
-A big thank you to my mentor Araz Abishov for being so appreciative and helpful.
 Following are the 2 links to the repositories, I contributed to, which shows the work done by me.
 
 - {%link  https://github.com/laa-1-yay/dhis2-android-sdk/commits/interpretations?author=laa-1-yay Dashboard App Related Work %}
@@ -27,10 +27,10 @@ Here is the description of the work :
 
 **Dashboard App Related Work**
 
-Dashboard app is intended for organizing and to provide quick access to different analytical objects (maps, charts, reports, tables, etc) to an individual user. 
+Dashboard app is intended for organizing and to provide quick access to different analytical objects (maps, charts, reports, tables, etc) to an individual user.   
 I had to re implement the whole app with the following changes :
 
--Re-implementing whole DHIS2 Dashboard app with the general DHIS SDK  
+-Use general DHIS SDK for everything.    
 -Follow the MVP (Model View Presenter) architecture.  
 -Use Dagger to inject dependencies of SDK elements.  
 -Remove Butter knife code  
@@ -46,7 +46,7 @@ In MVP, the Presenter contains the UI business logic for the View. All invocatio
 **DHIS SDK Work**
 
 -Write the business logic code of the dashboard app in the SDK repo.  
--Add code for the syncing logic of dashboards and interpretation for     
+-Add code for the syncing logic of dashboards and interpretation to :     
     Get data from server    
     Update it    
     Add it to the local database    

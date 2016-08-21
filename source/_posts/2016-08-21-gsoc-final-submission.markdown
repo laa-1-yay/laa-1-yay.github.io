@@ -11,13 +11,13 @@ categories: [Google Summer Of Code, android, Open Source]
 {% img center /images/gsoc2.png  %}
 
 Hi,
+
 This is a blog post about my work, which I did during Google Summer of Code, 2016 with DHIS2 (District Health Information System).
 
 So, the 3 month long program finally comes to an end !
 
-It has been a really good experience working with the open source community, and it's exciting to see the project meet it's requirements.
+It has been a really good experience working with the open source community, and it's exciting to see the project meet its requirements.
 
-A big thank you to my mentor Araz Abishov for being so appreciative and helpful.
 Following are the 2 links to the repositories, I contributed to, which shows the work done by me.
 
 - {%link  https://github.com/laa-1-yay/dhis2-android-sdk/commits/interpretations?author=laa-1-yay Dashboard App Related Work %}
@@ -27,10 +27,10 @@ Here is the description of the work :
 
 **Dashboard App Related Work**
 
-Dashboard app is intended for organizing and to provide quick access to different analytical objects (maps, charts, reports, tables, etc) to an individual user. 
+Dashboard app is intended for organizing and to provide quick access to different analytical objects (maps, charts, reports, tables, etc) to an individual user.   
 I had to re implement the whole app with the following changes :
 
--Re-implementing whole DHIS2 Dashboard app with the general DHIS SDK  
+-Use general DHIS SDK for everything.    
 -Follow the MVP (Model View Presenter) architecture.  
 -Use Dagger to inject dependencies of SDK elements.  
 -Remove Butter knife code  
@@ -46,15 +46,16 @@ In MVP, the Presenter contains the UI business logic for the View. All invocatio
 **DHIS SDK Work**
 
 -Write the business logic code of the dashboard app in the SDK repo.  
--Add code for the syncing logic of dashboards and interpretation for     
+-Add code for the syncing logic of Dashboards and Interpretation to :     
     Get data from server    
     Update it    
     Add it to the local database    
     Retrieve local database changes      
 -Use RxAndroid with observables to interact with data.  
--Make different controllers for dashboard, dashboard content and interactors  
--Make different interactors and stores interfaces for all the resources of dashboards and interprations such as DashboardElement, DashboardItem, Interpretations, InterpretationComment, etc. along with their implementation.  
--Make different Modules and Components for Dashboard/ Interpretations for dependency injection using Dagger. 
+-Make different Controllers for Dashboards, Dashboard Content and Interpretations  
+-Make different Interactors and Stores interfaces for all the resources of dashboards and interprations such as DashboardElement, DashboardItem, Interpretations, InterpretationComment, etc. along with their implementation.  
+-Make different Modules and Components for Dashboard/ Interpretations for dependency injection using Dagger.  
+-Initialize/ Define the new files in the general modules such as services, persistance, controllers, etc.
 
 A big thank you to my mentor Araz Abishov for the guidance. 
 
