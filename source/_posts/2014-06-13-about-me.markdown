@@ -13,7 +13,7 @@ I am Laavanye Bahl (quite obvious), 21 year old, studying Software Engineering a
 I am a developer with 3 years of experience, especially Android and like to discover new technologies and things in general.
 
 Talking about my latest work,
-I completed my Google Summer of Code project recently and here is the link to the blog : {%link https://www.facebook.com/laavanye.bahl GSoC Final Submission %}
+I completed my Google Summer of Code project recently and here is the link to the blog : {%link http://laavanyebahl.com/blog/2016/08/21/gsoc-final-submission/ GSoC Final Submission %}
 
 **P.S.** - I had started this blog in my 1st year with some introductory information written below :p
 

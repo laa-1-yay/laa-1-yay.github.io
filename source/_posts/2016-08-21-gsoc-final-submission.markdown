@@ -8,7 +8,7 @@ categories: [Google Summer Of Code, android, Open Source]
 ---
 
 
-{% img center /images/gsocbanner.png  %}
+{% img center /images/gsoc2.png  %}
 
 Hi,
 This is a blog post about my work, which I did during Google Summer of Code, 2016 with DHIS2 (District Health Information System).
@@ -30,17 +30,33 @@ Here is the description of the work :
 Dashboard app is intended for organizing and to provide quick access to different analytical objects (maps, charts, reports, tables, etc) to an individual user. 
 I had to re implement the whole app with the following changes :
 
-Use the general DHIS SDK for everything.
+-Re-implementing whole DHIS2 Dashboard app with the general DHIS SDK  
+-Follow the MVP (Model View Presenter) architecture.  
+-Use Dagger to inject dependencies of SDK elements.  
+-Remove Butter knife code  
+-Re- use UI components and add new ones to the SDK  
+-Seperate Views, Presenters and Impl for every Fragment / Activity  
+
+Model-View-Presenter :
+
+{% img center /images/mvp.png  %}
+
+In MVP, the Presenter contains the UI business logic for the View. All invocations from the View delegate directly to Presenter. The Presenter is also decoupled directly from the View and talks to it through an interface. This is to allow mocking of the View in a unit test. One common attribute of MVP is that there has to be a lot of two-way dispatching. For example, when someone clicks the "Save" button, the event handler delegates to the Presenter's "OnSave" method. Once the save is completed, the Presenter will then call back the View through its interface so that the View can display that the save has completed.
 
 **DHIS SDK Work**
 
-To support the dashboard app 
+-Write the business logic code of the dashboard app in the SDK repo.  
+-Add code for the syncing logic of dashboards and interpretation for     
+    Get data from server    
+    Update it    
+    Add it to the local database    
+    Retrieve local database changes      
+-Use RxAndroid with observables to interact with data.  
+-Make different controllers for dashboard, dashboard content and interactors  
+-Make different interactors and stores interfaces for all the resources of dashboards and interprations such as DashboardElement, DashboardItem, Interpretations, InterpretationComment, etc. along with their implementation.  
+-Make different Modules and Components for Dashboard/ Interpretations for dependency injection using Dagger. 
 
-Re-implementing whole DHIS2 Dashboard app with the general DHIS SDK,
-
-adapting MVP architecture, Used RxAndroid and Dagger.
-
-A big thank you to my mentor Araz Abishov for being so appreciative and helpful.
+A big thank you to my mentor Araz Abishov for the guidance. 
 
 Looking forward to many more open source contributions !
 
