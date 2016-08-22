@@ -3,6 +3,7 @@ layout: post
 title: "Baba Prediction and CoDelhi"
 date: 2014-03-22 13:08:21 -0700
 comments: true
+sharing: true
 categories: [hackathon , android, app, gdg]
 ---
 

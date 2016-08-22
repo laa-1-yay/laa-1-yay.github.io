@@ -3,6 +3,7 @@ layout: post
 title: "Vocabulary for Android Wear (Watch) and Mobile"
 date: 2015-06-18 12:29:58 -0700
 comments: true
+sharing: true
 categories: [android, app]
 ---
 

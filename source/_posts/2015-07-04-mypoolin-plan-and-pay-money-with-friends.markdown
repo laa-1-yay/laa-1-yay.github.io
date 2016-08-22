@@ -3,6 +3,7 @@ layout: post
 title: "Mypoolin - Plan &amp; Pay Money with Friends"
 date: 2014-12-30 12:29:58 -0700
 comments: true
+sharing: true
 categories: [internships, android, app]
 ---
 

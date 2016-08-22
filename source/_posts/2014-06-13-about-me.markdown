@@ -3,6 +3,7 @@ layout: post
 title: "About Me"
 date: 2014-01-5 12:29:56 -0700
 comments: true
+sharing: true
 categories: [general, introduction, school, college]
 ---
 {% img left /images/dp2.jpg myphoto %}

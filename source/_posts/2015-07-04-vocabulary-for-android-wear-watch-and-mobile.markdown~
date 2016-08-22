@@ -3,7 +3,7 @@ layout: post
 title: "Vocabulary for Android Wear (Watch) and Mobile"
 date: 2015-06-18 12:29:58 -0700
 comments: true
-categories: [Android, App]
+categories: [android, app]
 ---
 
 Vocabulary Flashcards for Android Wear (Watch) and Mobile - On the go preparation for GRE / SAT / GMAT
