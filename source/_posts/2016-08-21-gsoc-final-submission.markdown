@@ -32,7 +32,7 @@ I had to re implement the whole app with the following changes :
 
 -Use general DHIS SDK for everything.    
 -Follow the MVP (Model View Presenter) architecture.  
--Use Dagger to inject dependencies of SDK elements.  
+-Use Dagger to inject dependencies of SDK elements and make different Modules and Components for Dashboard/ Interpretations.     
 -Remove Butter knife code  
 -Re- use UI components and add new ones to the SDK  
 -Seperate Views, Presenters and Impl for every Fragment / Activity  
@@ -54,7 +54,6 @@ In MVP, the Presenter contains the UI business logic for the View. All invocatio
 -Use RxAndroid with observables to interact with data.  
 -Make different Controllers for Dashboards, Dashboard Content and Interpretations  
 -Make different Interactors and Stores interfaces for all the resources of dashboards and interprations such as DashboardElement, DashboardItem, Interpretations, InterpretationComment, etc. along with their implementation.  
--Make different Modules and Components for Dashboard/ Interpretations for dependency injection using Dagger.  
 -Initialize/ Define the new files in the general modules such as services, persistance, controllers, etc.
 
 A big thank you to my mentor Araz Abishov for the guidance. 

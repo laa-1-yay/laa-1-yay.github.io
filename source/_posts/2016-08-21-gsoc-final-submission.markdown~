@@ -46,15 +46,16 @@ In MVP, the Presenter contains the UI business logic for the View. All invocatio
 **DHIS SDK Work**
 
 -Write the business logic code of the dashboard app in the SDK repo.  
--Add code for the syncing logic of dashboards and interpretation to :     
+-Add code for the syncing logic of Dashboards and Interpretation to :     
     Get data from server    
     Update it    
     Add it to the local database    
     Retrieve local database changes      
 -Use RxAndroid with observables to interact with data.  
--Make different controllers for dashboard, dashboard content and interactors  
--Make different interactors and stores interfaces for all the resources of dashboards and interprations such as DashboardElement, DashboardItem, Interpretations, InterpretationComment, etc. along with their implementation.  
--Make different Modules and Components for Dashboard/ Interpretations for dependency injection using Dagger. 
+-Make different Controllers for Dashboards, Dashboard Content and Interpretations  
+-Make different Interactors and Stores interfaces for all the resources of dashboards and interprations such as DashboardElement, DashboardItem, Interpretations, InterpretationComment, etc. along with their implementation.  
+-Make different Modules and Components for Dashboard/ Interpretations for dependency injection using Dagger.  
+-Initialize/ Define the new files in the general modules such as services, persistance, controllers, etc.
 
 A big thank you to my mentor Araz Abishov for the guidance. 
 
