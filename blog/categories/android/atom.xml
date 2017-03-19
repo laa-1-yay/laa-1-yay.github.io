@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: android | Laavanye Bahl]]></title>
+  <link href="http://www.laavanyebahl.com/blog/categories/android/atom.xml" rel="self"/>
+  <link href="http://www.laavanyebahl.com/"/>
+  <updated>2017-03-20T03:14:31+05:30</updated>
+  <id>http://www.laavanyebahl.com/</id>
+  <author>
+    <name><![CDATA[Laavanye Bahl]]></name>
+    <email><![CDATA[laavanye.bahl@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Shwaz - Get Billboard Top 100 songs App]]></title>
+    <link href="http://www.laavanyebahl.com/blog/2017/03/20/shwaz-get-billboard-top-100-songs-app/"/>
+    <updated>2017-03-20T01:08:47+05:30</updated>
+    <id>http://www.laavanyebahl.com/blog/2017/03/20/shwaz-get-billboard-top-100-songs-app</id>
+    <content type="html"><![CDATA[<p><img src="/images/shwazbanner.png" title="" >
+Download it for android from <a href="href="https://play.google.com/store/apps/details?id=com.laav.getbillboardtop100">https://play.google.com/store/apps/details?id=com.laav.getbillboardtop100</a>"  <a target="_blank">Playstore</a></p>
+
+<p>Hey guys, so I&rsquo;ve developed this Android App to make your life much easier.</p>
+
+<p>I have always wanted to build products for people which solved an everyday problem and this is once such attempt.
+I was used to spending a lot of time in first finding the top English songs and then obtaining them through various sites which involved a lot of ads.</p>
+
+<p>So I developed this app to let you download Billboard top 100 songs of that particular time all at once with a button click permanently as files.</p>
+
+<p>No subscriptions. No redirection links. No surveys. No conversion time.
+You don&rsquo;t have to go through the hassle of looking for each song separately and downloading them.
+It&rsquo;s the best way to stay updated and have the latest playlist at all times.
+You also get a notification when a new song enters the list.
+I hope y'all like it! !</p>
+
+<p><img src="/images/shwaz2.png" title="" >
+<img src="/images/shwaz3.png" title="" ></p>
+
+<p>FEATURES :</p>
+
+<p>★  Tired of using apps with subscriptions and wasting data on streaming the same song ? <br/>
+★  Searching for latest songs on web one by one and getting redirected to a million ad websites ? <br/>
+★  Going on a drive and want a quick playlist of latest songs in like a minute ? <br/>
+★  Got a new phone with no songs ? <br/>
+★  Throwing a house party and no time for music collection? <br/>
+★  Push notification whenever a new song enters the list !</p>
+
+<p><a href="href="https://www.facebook.com/shwazbillboard/">https://www.facebook.com/shwazbillboard/</a>"  <a target="_blank">FacebookPage</a></p>
+
+<p>For more information &ndash;</p>
+
+<p>Link to Terms of Use : <a href="http://textuploader.com/d1pjh/raw">http://textuploader.com/d1pjh/raw</a>  <br/>
+Link to Privacy Policy : <a href="http://textuploader.com/d1hpx/raw">http://textuploader.com/d1hpx/raw</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[GSoC Final Submission]]></title>
+    <link href="http://www.laavanyebahl.com/blog/2016/08/21/gsoc-final-submission/"/>
+    <updated>2016-08-21T22:57:41+05:30</updated>
+    <id>http://www.laavanyebahl.com/blog/2016/08/21/gsoc-final-submission</id>
+    <content type="html"><![CDATA[<p><img class="center" src="/images/gsoc2.png" title="" ></p>
+
+<p>Hi,</p>
+
+<p>This is a blog post about my work, which I did during Google Summer of Code, 2016 with DHIS2 (District Health Information System).</p>
+
+<p>So, the 3 month long program finally comes to an end !</p>
+
+<p>It has been a really good experience working with the open source community, and it&rsquo;s exciting to see the project meet its requirements.</p>
+
+<p>Following are the 2 links to the repositories, I contributed to, which shows the work done by me.</p>
+
+<ul>
+<li><a href="href="https://github.com/laa-1-yay/dhis2-android-sdk/commits/interpretations?author=laa-1-yay">https://github.com/laa-1-yay/dhis2-android-sdk/commits/interpretations?author=laa-1-yay</a>"  <a target="_blank">Dashboard App Related Work</a></li>
+<li><a href="href="https://github.com/dhis2/dhis2-android-dashboard/commits/interpretations?author=laa-1-yay">https://github.com/dhis2/dhis2-android-dashboard/commits/interpretations?author=laa-1-yay</a>"  <a target="_blank">DHIS SDK Work</a></li>
+</ul>
+
+
+<p>Here is the description of the work :</p>
+
+<p><strong>Dashboard App Related Work</strong></p>
+
+<p>Dashboard app is intended for organizing and to provide quick access to different analytical objects (maps, charts, reports, tables, etc) to an individual user. <br/>
+I had to re implement the whole app with the following changes :</p>
+
+<p>-Use general DHIS SDK for everything.  <br/>
+-Follow the MVP (Model View Presenter) architecture.<br/>
+-Use Dagger to inject dependencies of SDK elements and make different Modules and Components for Dashboard/ Interpretations.   <br/>
+-Remove Butter knife code<br/>
+-Re- use UI components and add new ones to the SDK<br/>
+-Seperate Views, Presenters and Impl for every Fragment / Activity</p>
+
+<p>Model-View-Presenter :</p>
+
+<p><img class="center" src="/images/mvp.png" title="" ></p>
+
+<p>In MVP, the Presenter contains the UI business logic for the View. All invocations from the View delegate directly to Presenter. The Presenter is also decoupled directly from the View and talks to it through an interface. This is to allow mocking of the View in a unit test. One common attribute of MVP is that there has to be a lot of two-way dispatching. For example, when someone clicks the &ldquo;Save&rdquo; button, the event handler delegates to the Presenter&rsquo;s &ldquo;OnSave&rdquo; method. Once the save is completed, the Presenter will then call back the View through its interface so that the View can display that the save has completed.</p>
+
+<p><strong>DHIS SDK Work</strong></p>
+
+<p>-Write the business logic code of the dashboard app in the SDK repo.<br/>
+-Add code for the syncing logic of Dashboards and Interpretation to :</p>
+
+<pre><code>Get data from server    
+Update it    
+Add it to the local database    
+Retrieve local database changes      
+</code></pre>
+
+<p>-Use RxAndroid with observables to interact with data.<br/>
+-Make different Controllers for Dashboards, Dashboard Content and Interpretations<br/>
+-Make different Interactors and Stores interfaces for all the resources of dashboards and interprations such as DashboardElement, DashboardItem, Interpretations, InterpretationComment, etc. along with their implementation.<br/>
+-Initialize/ Define the new files in the general modules such as services, persistance, controllers, etc.</p>
+
+<p>A big thank you to my mentor Araz Abishov for the guidance and the feedback :</p>
+
+<p><img class="center" src="/images/feedbackgsoc.png" title="" ></p>
+
+<p>Looking forward to many more open source contributions !</p>
+
+<p><img class="center" src="/images/certigsoc.png" title="" ></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[GSoC with Dhis2 : Community bonding]]></title>
+    <link href="http://www.laavanyebahl.com/blog/2016/05/28/gsoc-with-dhis2-community-bonding/"/>
+    <updated>2016-05-28T16:27:35+05:30</updated>
+    <id>http://www.laavanyebahl.com/blog/2016/05/28/gsoc-with-dhis2-community-bonding</id>
+    <content type="html"><![CDATA[<p><img class="center" src="/images/gsocbanner.png" title="" ></p>
+
+<p>Hi,</p>
+
+<p>I am overwhelmed to get selected for GSoC 2016. I would be working with the <a href="href="https://www.dhis2.org/">https://www.dhis2.org/</a>"  <a target="_blank">DHIS2</a> organization.</p>
+
+<p>It is the preferred health management information system in 47 countries and 23 organizations across four continents. DHIS 2 helps governments and health organizations to manage their operations more effectively, monitor processes and improve communication.</p>
+
+<p><img class="center" src="/images/dhis2.jpg" title="" ></p>
+
+<p>My project is : <a href="href="https://summerofcode.withgoogle.com/projects/#5382475769446400">https://summerofcode.withgoogle.com/projects/#5382475769446400</a>"  <a target="_blank">Enhancing Dashboard Android App</a>.  Current version of DHIS2 android dashboard application uses static images/HTML pages to represent information, which is limiting compared to the web version which allows to drill down into data.</p>
+
+<p>Following are some of the areas I would be working on :</p>
+
+<ul>
+<li>Reimplementing syncing logic with the general sdk</li>
+<li>Generating the analytical objects dynamically</li>
+<li>Making the app work in the offline mode</li>
+<li>Many other UI/UX improvements</li>
+</ul>
+
+
+<p>Dashboard app is intended for organizing and to provide quick access to different analytical objects (maps, charts, reports, tables, etc) to an individual user.</p>
+
+<p>It has been developed for Web, Desktop and Mobile.
+The various applications can be downloaded from <a href="href="https://www.dhis2.org/downloads">https://www.dhis2.org/downloads</a>"  <a target="_blank">here</a></p>
+
+<p>Community Bonding period was used for :</p>
+
+<ul>
+<li>Introduction</li>
+<li>Know more about the community</li>
+<li>Study the code</li>
+<li>Read documentations</li>
+<li>Discussing timeline with the mentor</li>
+</ul>
+
+
+<p>I would like to thank my mentor Araz Abishov for the continuous guidance.</p>
+
+<p>It feels great to be a part of a community of active developers and members working on development and implementation of health information systems across the world and I hope to complete the project with meaningful contributions.</p>
+
+<p>The projects of other contributors can be found in this <a href="href="https://medium.com/dhis-2-summer-of-code">https://medium.com/dhis-2-summer-of-code</a>"  <a target="_blank">publication</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Smashdub]]></title>
+    <link href="http://www.laavanyebahl.com/blog/2015/08/02/smashdub/"/>
+    <updated>2015-08-02T00:59:58+05:30</updated>
+    <id>http://www.laavanyebahl.com/blog/2015/08/02/smashdub</id>
+    <content type="html"><![CDATA[<p>In today&rsquo;s generation, you name a service and there&rsquo;s an app for it, but there are a very few light hearted fun apps which exploit humour.</p>
+
+<p>Whenever I used to talk to my friends about my apps , I  got suggestions to make something for the youth, which is lively, cheerful, basically a leisure app for past time.
+So I wanted to develop something different than a game or service oriented app : what our generation people wanted !</p>
+
+<p>I saw the exponenetial growth and boom of Dubsmash and one day it clicked to me !
+Why can&rsquo;t we just do the opposite ??
+Take a sample video and just dub your voice !
+Being actively involved in theatre , I always loved doing mimicry of various actors. It is one of the most popular hobbies. Be it Shah Rukh Khan&rsquo;s kkk .. Kiran or Salman Khan&rsquo;s commitment, it&rsquo;s always fun to immitate your favorite celebrity.
+People have been doing it since centuries. Why not just automate and make it easy and convinient ?</p>
+
+<p>The App is called Smashdub &ndash; your mimicry partner !
+You can seemlessly add your voice to GIFs and Videos.
+Download it for android from <a href="href="https://play.google.com/store/apps/details?id=smashdub.laav.com.smashdub&amp;hl=en">https://play.google.com/store/apps/details?id=smashdub.laav.com.smashdub&amp;hl=en</a>"  <a target="_blank">Playstore</a></p>
+
+<p><img src="/images/smashdub3.png" title="" >
+<img src="/images/smashdub1.png" title="" >
+<img src="/images/smashdub4.png" title="" >
+<img src="/images/smashdub2.png" title="" >
+<img src="/images/smashdub5.png" title="" ></p>
+
+<p>Some features :</p>
+
+<ul>
+<li>Large collection of GIFs and Videos.</li>
+<li>Search for actors , dialogues, movies, shows, etc.</li>
+<li>Fast and very easy to use.</li>
+<li>Share your Dubs with friends on various platforms.</li>
+<li>Capture or add videos from gallery.</li>
+<li>Share your dubs with the SmashDub community &ndash; a whole social network around it.</li>
+</ul>
+
+
+<p><a href="href="https://www.facebook.com/smashdubmimicry">https://www.facebook.com/smashdubmimicry</a>"  <a target="_blank">FacebookPage</a></p>
+
+<p><a href="href="https://instagram.com/officialsmashdub/">https://instagram.com/officialsmashdub/</a>"  <a target="_blank">InstagramPage</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Chestream and AngelHack, Delhi]]></title>
+    <link href="http://www.laavanyebahl.com/blog/2015/06/22/chestream-and-angelhack/"/>
+    <updated>2015-06-22T00:59:58+05:30</updated>
+    <id>http://www.laavanyebahl.com/blog/2015/06/22/chestream-and-angelhack</id>
+    <content type="html"><![CDATA[<p>Chestream and AngelHack, Delhi &ndash; June 20-21, 2015</p>
+
+<p><a href="href="http://angelhack.com">http://angelhack.com</a>"  <a target="_blank">AngelHack</a> is the biggest Global Hackthon Series in the world hosted every year at over 25 cities including LA, Hong Kong, London, Abu Dhabi, India, Silicon Valley, Tokyo, Cairo, Zurich, Moscow, Bangok, etc.</p>
+
+<p><img src="/images/angelhack.png" title="" ></p>
+
+<p>With a total participation of 42 teams, this was more than just a normal Hackathon, as the winners would get an invite to the HACKcelerator program and an opportunity to present their project at the AngelHack’s global event to be held in Silicon Valley.
+There were also prizes for different categories like Amazon, HP, Mozilla, Clusterpoint, Branch.io and IBM Bluemix, where you had to use their technology innovatively and efficiently.</p>
+
+<p>We had a balanced team of 5 people : Saurav Tomar, Umair Khan, Naman Dwivedi, Prempal Singh and I, strong in Android dev, UI/UX design and backend tech.
+Over 30 hours (overnight), we developed <a href="href="http://chestream.com">http://chestream.com</a>"  <a target="_blank">Chestream</a> a new social network around video streaming.</p>
+
+<p><img src="/images/chestream1.png" title="" >
+<img src="/images/chestream4.png" title="" >
+<img src="/images/chestream2.png" title="" >
+<img src="/images/chestream3.png" title="" ></p>
+
+<p>Chestream is like Meerkat/ Periscope, but is linear and synchronous, i.e. only one person streams at a given time, and who gets to stream is decided by the number of upvotes, they&rsquo;ve got on their stream description and teaser(GIF) prior to them going live. As soon as one stream gets over, the next one is loaded.
+An upvoting system ensures that the creamy layer of the videos is prevalent. So people will view the same content all around the world, not limited by demographics and social circle, upvoted by all unanimously.
+Motivation: Content on apps like Meerkat and Periscope is increasing exponentially, and quality is not assured. Since this is non-archival content, it has only immediate value.
+Chestream&rsquo;s social network is similar to Tumblr / Reddit and is one to many in nature.</p>
+
+<p>Judges were impressed, when we pitched our project and shortlisted us. In the second round, we answered the various questions raised and won their confidence. They liked the concept and found it very different and exciting. Ultimately we won the Hackathon as well as the Clusterpoint challenge, got an invite to HACKcelerator program, opportunity to present our app at the Global Demo Day in Silicon Valley, California and a smartwatch.</p>
+
+<p><img src="/images/chestreamteam.jpg" title="" ></p>
+
+<p>Some features of our app :</p>
+
+<ul>
+<li>A streaming app that works on all networks, even 3G (at 512 kbps).</li>
+<li>Upvote the streams you like.</li>
+<li>Only the most top voted streams get played, in descending order of upvotes.</li>
+<li>Dyanamic comments on the stream.</li>
+</ul>
+
+
+<p>We will be releasing our beta version really soon. You can get the latest updates at <a href="href="http://chestream.com">http://chestream.com</a>"  <a target="_blank">chestream.com</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>

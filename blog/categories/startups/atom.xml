@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: startups | Laavanye Bahl]]></title>
+  <link href="http://www.laavanyebahl.com/blog/categories/startups/atom.xml" rel="self"/>
+  <link href="http://www.laavanyebahl.com/"/>
+  <updated>2017-03-20T03:14:31+05:30</updated>
+  <id>http://www.laavanyebahl.com/</id>
+  <author>
+    <name><![CDATA[Laavanye Bahl]]></name>
+    <email><![CDATA[laavanye.bahl@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Smashdub]]></title>
+    <link href="http://www.laavanyebahl.com/blog/2015/08/02/smashdub/"/>
+    <updated>2015-08-02T00:59:58+05:30</updated>
+    <id>http://www.laavanyebahl.com/blog/2015/08/02/smashdub</id>
+    <content type="html"><![CDATA[<p>In today&rsquo;s generation, you name a service and there&rsquo;s an app for it, but there are a very few light hearted fun apps which exploit humour.</p>
+
+<p>Whenever I used to talk to my friends about my apps , I  got suggestions to make something for the youth, which is lively, cheerful, basically a leisure app for past time.
+So I wanted to develop something different than a game or service oriented app : what our generation people wanted !</p>
+
+<p>I saw the exponenetial growth and boom of Dubsmash and one day it clicked to me !
+Why can&rsquo;t we just do the opposite ??
+Take a sample video and just dub your voice !
+Being actively involved in theatre , I always loved doing mimicry of various actors. It is one of the most popular hobbies. Be it Shah Rukh Khan&rsquo;s kkk .. Kiran or Salman Khan&rsquo;s commitment, it&rsquo;s always fun to immitate your favorite celebrity.
+People have been doing it since centuries. Why not just automate and make it easy and convinient ?</p>
+
+<p>The App is called Smashdub &ndash; your mimicry partner !
+You can seemlessly add your voice to GIFs and Videos.
+Download it for android from <a href="href="https://play.google.com/store/apps/details?id=smashdub.laav.com.smashdub&amp;hl=en">https://play.google.com/store/apps/details?id=smashdub.laav.com.smashdub&amp;hl=en</a>"  <a target="_blank">Playstore</a></p>
+
+<p><img src="/images/smashdub3.png" title="" >
+<img src="/images/smashdub1.png" title="" >
+<img src="/images/smashdub4.png" title="" >
+<img src="/images/smashdub2.png" title="" >
+<img src="/images/smashdub5.png" title="" ></p>
+
+<p>Some features :</p>
+
+<ul>
+<li>Large collection of GIFs and Videos.</li>
+<li>Search for actors , dialogues, movies, shows, etc.</li>
+<li>Fast and very easy to use.</li>
+<li>Share your Dubs with friends on various platforms.</li>
+<li>Capture or add videos from gallery.</li>
+<li>Share your dubs with the SmashDub community &ndash; a whole social network around it.</li>
+</ul>
+
+
+<p><a href="href="https://www.facebook.com/smashdubmimicry">https://www.facebook.com/smashdubmimicry</a>"  <a target="_blank">FacebookPage</a></p>
+
+<p><a href="href="https://instagram.com/officialsmashdub/">https://instagram.com/officialsmashdub/</a>"  <a target="_blank">InstagramPage</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Chestream and AngelHack, Delhi]]></title>
+    <link href="http://www.laavanyebahl.com/blog/2015/06/22/chestream-and-angelhack/"/>
+    <updated>2015-06-22T00:59:58+05:30</updated>
+    <id>http://www.laavanyebahl.com/blog/2015/06/22/chestream-and-angelhack</id>
+    <content type="html"><![CDATA[<p>Chestream and AngelHack, Delhi &ndash; June 20-21, 2015</p>
+
+<p><a href="href="http://angelhack.com">http://angelhack.com</a>"  <a target="_blank">AngelHack</a> is the biggest Global Hackthon Series in the world hosted every year at over 25 cities including LA, Hong Kong, London, Abu Dhabi, India, Silicon Valley, Tokyo, Cairo, Zurich, Moscow, Bangok, etc.</p>
+
+<p><img src="/images/angelhack.png" title="" ></p>
+
+<p>With a total participation of 42 teams, this was more than just a normal Hackathon, as the winners would get an invite to the HACKcelerator program and an opportunity to present their project at the AngelHack’s global event to be held in Silicon Valley.
+There were also prizes for different categories like Amazon, HP, Mozilla, Clusterpoint, Branch.io and IBM Bluemix, where you had to use their technology innovatively and efficiently.</p>
+
+<p>We had a balanced team of 5 people : Saurav Tomar, Umair Khan, Naman Dwivedi, Prempal Singh and I, strong in Android dev, UI/UX design and backend tech.
+Over 30 hours (overnight), we developed <a href="href="http://chestream.com">http://chestream.com</a>"  <a target="_blank">Chestream</a> a new social network around video streaming.</p>
+
+<p><img src="/images/chestream1.png" title="" >
+<img src="/images/chestream4.png" title="" >
+<img src="/images/chestream2.png" title="" >
+<img src="/images/chestream3.png" title="" ></p>
+
+<p>Chestream is like Meerkat/ Periscope, but is linear and synchronous, i.e. only one person streams at a given time, and who gets to stream is decided by the number of upvotes, they&rsquo;ve got on their stream description and teaser(GIF) prior to them going live. As soon as one stream gets over, the next one is loaded.
+An upvoting system ensures that the creamy layer of the videos is prevalent. So people will view the same content all around the world, not limited by demographics and social circle, upvoted by all unanimously.
+Motivation: Content on apps like Meerkat and Periscope is increasing exponentially, and quality is not assured. Since this is non-archival content, it has only immediate value.
+Chestream&rsquo;s social network is similar to Tumblr / Reddit and is one to many in nature.</p>
+
+<p>Judges were impressed, when we pitched our project and shortlisted us. In the second round, we answered the various questions raised and won their confidence. They liked the concept and found it very different and exciting. Ultimately we won the Hackathon as well as the Clusterpoint challenge, got an invite to HACKcelerator program, opportunity to present our app at the Global Demo Day in Silicon Valley, California and a smartwatch.</p>
+
+<p><img src="/images/chestreamteam.jpg" title="" ></p>
+
+<p>Some features of our app :</p>
+
+<ul>
+<li>A streaming app that works on all networks, even 3G (at 512 kbps).</li>
+<li>Upvote the streams you like.</li>
+<li>Only the most top voted streams get played, in descending order of upvotes.</li>
+<li>Dyanamic comments on the stream.</li>
+</ul>
+
+
+<p>We will be releasing our beta version really soon. You can get the latest updates at <a href="href="http://chestream.com">http://chestream.com</a>"  <a target="_blank">chestream.com</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[StampU]]></title>
+    <link href="http://www.laavanyebahl.com/blog/2015/02/13/stampu/"/>
+    <updated>2015-02-13T00:59:58+05:30</updated>
+    <id>http://www.laavanyebahl.com/blog/2015/02/13/stampu</id>
+    <content type="html"><![CDATA[<p>StampU &ndash; India&rsquo;s first stamp based reward program</p>
+
+<p>Developed this app along with Kshitij Mehra and Anirudh Mondal. I am the Chief Software Developer and made the whole app (both front-end and back-end) myself with the valuable inputs of the team. Kshitij and Anirudh handle the Marketing and Operations of the app.</p>
+
+<p><img src="/images/1-min.jpg" title="" >
+<img src="/images/2-min.jpg" title="" >
+<img src="/images/3-min.jpg" title="" >
+<img src="/images/4-min.jpg" title="" >
+<img src="/images/5-min.jpg" title="" >
+<img src="/images/6-min.jpg" title="" ></p>
+
+<p>Some features of our app :</p>
+
+<ul>
+<li>Earn stamps on every visit at your favorite outlets and redeem for exciting rewards.</li>
+<li>Choices made easy- Find the location of your favorite locations through Google maps, address listing, browse through outlet photos, check out the Facebook page instantly on app for quick reviews and offers, know the loyalty rewards and make your choices better.</li>
+<li>Simple Way to Remain loyal- Forget the old complexities of points and cash back . Simply scan the QR card at the outlet to earn one stamp per visit and redeem for premium and exciting rewards exclusive for our users.</li>
+<li>Rewards for first visit too</li>
+<li>Instant Gratification- No need of coupon codes or other redemption hassles.Simply show the mobile to the waiter to get the rewards instantly.</li>
+<li>Simple User Interface and Multiple Login Options- The UI is easy to understand and sign up is easy with Google or Facebook accounts</li>
+<li>One account, unlimited possibilities- Keep track of all your stamps at all your favorite outlets on your phone.</li>
+<li>Never miss out on a chance to earn your stamp again because now everything is right there on your phone.</li>
+<li>No need of fiddling with manual stamp cards anymore.</li>
+<li>24X7 Customer Care- We provide support through email phone and in app forms to address any of your problems as soon as possible.</li>
+</ul>
+
+
+<p>You can get download the app from  <a href="href="https://play.google.com/store/apps/details?id=com.app.stampu&amp;hl=en">https://play.google.com/store/apps/details?id=com.app.stampu&amp;hl=en</a>"  <a target="_blank">Playstore</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>

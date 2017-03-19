@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: hackathon | Laavanye Bahl]]></title>
+  <link href="http://www.laavanyebahl.com/blog/categories/hackathon/atom.xml" rel="self"/>
+  <link href="http://www.laavanyebahl.com/"/>
+  <updated>2017-03-20T03:14:31+05:30</updated>
+  <id>http://www.laavanyebahl.com/</id>
+  <author>
+    <name><![CDATA[Laavanye Bahl]]></name>
+    <email><![CDATA[laavanye.bahl@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Chestream and AngelHack, Delhi]]></title>
+    <link href="http://www.laavanyebahl.com/blog/2015/06/22/chestream-and-angelhack/"/>
+    <updated>2015-06-22T00:59:58+05:30</updated>
+    <id>http://www.laavanyebahl.com/blog/2015/06/22/chestream-and-angelhack</id>
+    <content type="html"><![CDATA[<p>Chestream and AngelHack, Delhi &ndash; June 20-21, 2015</p>
+
+<p><a href="href="http://angelhack.com">http://angelhack.com</a>"  <a target="_blank">AngelHack</a> is the biggest Global Hackthon Series in the world hosted every year at over 25 cities including LA, Hong Kong, London, Abu Dhabi, India, Silicon Valley, Tokyo, Cairo, Zurich, Moscow, Bangok, etc.</p>
+
+<p><img src="/images/angelhack.png" title="" ></p>
+
+<p>With a total participation of 42 teams, this was more than just a normal Hackathon, as the winners would get an invite to the HACKcelerator program and an opportunity to present their project at the AngelHack’s global event to be held in Silicon Valley.
+There were also prizes for different categories like Amazon, HP, Mozilla, Clusterpoint, Branch.io and IBM Bluemix, where you had to use their technology innovatively and efficiently.</p>
+
+<p>We had a balanced team of 5 people : Saurav Tomar, Umair Khan, Naman Dwivedi, Prempal Singh and I, strong in Android dev, UI/UX design and backend tech.
+Over 30 hours (overnight), we developed <a href="href="http://chestream.com">http://chestream.com</a>"  <a target="_blank">Chestream</a> a new social network around video streaming.</p>
+
+<p><img src="/images/chestream1.png" title="" >
+<img src="/images/chestream4.png" title="" >
+<img src="/images/chestream2.png" title="" >
+<img src="/images/chestream3.png" title="" ></p>
+
+<p>Chestream is like Meerkat/ Periscope, but is linear and synchronous, i.e. only one person streams at a given time, and who gets to stream is decided by the number of upvotes, they&rsquo;ve got on their stream description and teaser(GIF) prior to them going live. As soon as one stream gets over, the next one is loaded.
+An upvoting system ensures that the creamy layer of the videos is prevalent. So people will view the same content all around the world, not limited by demographics and social circle, upvoted by all unanimously.
+Motivation: Content on apps like Meerkat and Periscope is increasing exponentially, and quality is not assured. Since this is non-archival content, it has only immediate value.
+Chestream&rsquo;s social network is similar to Tumblr / Reddit and is one to many in nature.</p>
+
+<p>Judges were impressed, when we pitched our project and shortlisted us. In the second round, we answered the various questions raised and won their confidence. They liked the concept and found it very different and exciting. Ultimately we won the Hackathon as well as the Clusterpoint challenge, got an invite to HACKcelerator program, opportunity to present our app at the Global Demo Day in Silicon Valley, California and a smartwatch.</p>
+
+<p><img src="/images/chestreamteam.jpg" title="" ></p>
+
+<p>Some features of our app :</p>
+
+<ul>
+<li>A streaming app that works on all networks, even 3G (at 512 kbps).</li>
+<li>Upvote the streams you like.</li>
+<li>Only the most top voted streams get played, in descending order of upvotes.</li>
+<li>Dyanamic comments on the stream.</li>
+</ul>
+
+
+<p>We will be releasing our beta version really soon. You can get the latest updates at <a href="href="http://chestream.com">http://chestream.com</a>"  <a target="_blank">chestream.com</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[GSF Hacks]]></title>
+    <link href="http://www.laavanyebahl.com/blog/2014/04/22/gsf-hacks/"/>
+    <updated>2014-04-22T00:59:58+05:30</updated>
+    <id>http://www.laavanyebahl.com/blog/2014/04/22/gsf-hacks</id>
+    <content type="html"><![CDATA[<p>GSF Hacks &ndash; April 19-20, 2014</p>
+
+<p>Hosted at Investopad, it is surely the best hackathon I&rsquo;ve attended till now.
+They selected top participants from a HackerEarth coding event. Hence, it was challenging.</p>
+
+<p>GSF Accelerator is the initiative of Rajesh Sawhney, founder of GSF Superangels, a
+network of 30 leading digital founders and investors ,the single
+largest funding platform for the Indian start-ups.</p>
+
+<p>Our team &ndash; codeminators (Raghav , Puja and me) participated in the shine.com challenge and came second.</p>
+
+<p><img src="/images/9.jpg" title="" ></p>
+
+<p><img src="/images/13.jpg" title="" >
+<img src="/images/17.jpg" title="" ></p>
+
+<p>shine.com, an initiative of Hindustan Times is an online portal for finding jobs. Registration pages are often lengthy , boring and time consuming. So the task was to make their mobile app fast, efficient and easy to use.</p>
+
+<p>This is one of the few Hackathons that provides overnight stay. It was an amazing experience staying up all night, coding our way out with other developers.</p>
+
+<p>They made sure they provided the fuel to keep us going &ndash; #unlimitedRedBull</p>
+
+<p><img src="/images/10.jpg" title="" ></p>
+
+<p>There were a lot of fun activities as well at regualar intervals to win goodies and relax the mind.</p>
+
+<p><img src="/images/19.jpg">
+<img src="/images/15.jpg" title="" >
+<img src="/images/18.jpg" title="" >
+<img src="/images/12.jpg"></p>
+
+<p>Team OSC (Arnav , Umair, Saurav, Abhinav), our seniors at DTU came first in their challenge and won some cool prizes.</p>
+
+<p><img src="/images/20.jpg" title="" >
+<img src="/images/22.png" title="" ></p>
+
+<p>We also got the oppurtunity to watch Jimi Hendrix live.</p>
+
+<p><img src="/images/21.jpg"></p>
+
+<p>Some features of our app :</p>
+
+<ul>
+<li>An OCR to read CV images/Pdf and parse the useful information.</li>
+<li>Filling the Registration page via a Siri like Voice Assistant,
+question after question.</li>
+<li>Skipping questions belonging to a particular category, if that
+category doesn&rsquo;t satisfy.</li>
+<li>Feature to record a SOP so that the recruiter can test the <br/>
+employee&rsquo;s speaking skills.</li>
+</ul>
+
+
+<p>You can find the code on <a href="href="https://github.com/team-LRP/shinedotcom">https://github.com/team-LRP/shinedotcom</a>"  <a target="_blank">GitHub</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Baba Prediction and CoDelhi]]></title>
+    <link href="http://www.laavanyebahl.com/blog/2014/03/23/baba-preediction-and-codelhi/"/>
+    <updated>2014-03-23T01:38:21+05:30</updated>
+    <id>http://www.laavanyebahl.com/blog/2014/03/23/baba-preediction-and-codelhi</id>
+    <content type="html"><![CDATA[<p>CoDelhi &ndash; This was our first Hackathon organized at DTU in association with the Google Developer Groups.</p>
+
+<p>We formed our team &ndash; initially called &ldquo;codeminators&rdquo; that included Raghav, Puja, Anshul and me and came 2nd in this event.
+This will always be important as it gave us the required boost and motivation.</p>
+
+<p><img src="/images/4.jpg" title="" >
+<img src="/images/5.jpg" title="" ></p>
+
+<p><img src="/images/24.png" title="" >
+<img src="/images/23.png" title="" ></p>
+
+<p>There were also a lot of interesting workshops , talks and sessions.</p>
+
+<p>In those 36 hrs we developed Baba Predicton which is basically an app for leisure. You ask a question about the Future in Yes or No and get the answer in terms of a humorous song. Often simple funny things go viral, right ? ;)</p>
+
+<p><img src="/images/6.jpg" title="" >
+<img src="/images/7.jpg" title="" >
+<img src="/images/8.jpg" title="" ></p>
+
+<p>We&rsquo;ll upload it on Play store soon after expanding our data base.</p>
+]]></content>
+  </entry>
+  
+</feed>

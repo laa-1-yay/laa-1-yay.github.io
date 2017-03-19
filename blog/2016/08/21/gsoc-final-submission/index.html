@@ -1,0 +1,406 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>GSoC Final Submission - Laavanye Bahl</title>
+  <meta name="author" content="Laavanye Bahl">
+
+  
+  <meta name="description" content="Hi, This is a blog post about my work, which I did during Google Summer of Code, 2016 with DHIS2 (District Health Information System). So, the 3 &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://www.laavanyebahl.com/blog/2016/08/21/gsoc-final-submission/">
+  
+   <link href="/favicon.png" rel="icon">
+
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="/javascripts/ender.js"></script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <link href="/atom.xml" rel="alternate" title="Laavanye Bahl" type="application/atom+xml">
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-52369835-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">Laavanye Bahl</a></h1>
+  
+    <h2>A blog about my projects.</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss email">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+    <li><a href="laavanye.bahl@gmail.com" rel="subscribe-email" title="subscribe via email">Email</a></li>
+  
+</ul>
+  
+<form action="https://www.google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:www.laavanyebahl.com" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+ <li><a href="/">Blog</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
+   <li><a href="/blog/categories">Categories</a></li>
+   <li><a href="/about">About Me</a></li>
+    
+
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">GSoC Final Submission</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2016-08-21T22:57:41+05:30" pubdate data-updated="true">Aug 21<span>st</span>, 2016</time>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p><img class="center" src="/images/gsoc2.png" title="" ></p>
+
+<p>Hi,</p>
+
+<p>This is a blog post about my work, which I did during Google Summer of Code, 2016 with DHIS2 (District Health Information System).</p>
+
+<p>So, the 3 month long program finally comes to an end !</p>
+
+<p>It has been a really good experience working with the open source community, and it&rsquo;s exciting to see the project meet its requirements.</p>
+
+<p>Following are the 2 links to the repositories, I contributed to, which shows the work done by me.</p>
+
+<ul>
+<li><a href="https://github.com/laa-1-yay/dhis2-android-sdk/commits/interpretations?author=laa-1-yay"  target="_blank">Dashboard App Related Work</a></li>
+<li><a href="https://github.com/dhis2/dhis2-android-dashboard/commits/interpretations?author=laa-1-yay"  target="_blank">DHIS SDK Work</a></li>
+</ul>
+
+
+<p>Here is the description of the work :</p>
+
+<p><strong>Dashboard App Related Work</strong></p>
+
+<p>Dashboard app is intended for organizing and to provide quick access to different analytical objects (maps, charts, reports, tables, etc) to an individual user. <br/>
+I had to re implement the whole app with the following changes :</p>
+
+<p>-Use general DHIS SDK for everything.  <br/>
+-Follow the MVP (Model View Presenter) architecture.<br/>
+-Use Dagger to inject dependencies of SDK elements and make different Modules and Components for Dashboard/ Interpretations.   <br/>
+-Remove Butter knife code<br/>
+-Re- use UI components and add new ones to the SDK<br/>
+-Seperate Views, Presenters and Impl for every Fragment / Activity</p>
+
+<p>Model-View-Presenter :</p>
+
+<p><img class="center" src="/images/mvp.png" title="" ></p>
+
+<p>In MVP, the Presenter contains the UI business logic for the View. All invocations from the View delegate directly to Presenter. The Presenter is also decoupled directly from the View and talks to it through an interface. This is to allow mocking of the View in a unit test. One common attribute of MVP is that there has to be a lot of two-way dispatching. For example, when someone clicks the &ldquo;Save&rdquo; button, the event handler delegates to the Presenter&rsquo;s &ldquo;OnSave&rdquo; method. Once the save is completed, the Presenter will then call back the View through its interface so that the View can display that the save has completed.</p>
+
+<p><strong>DHIS SDK Work</strong></p>
+
+<p>-Write the business logic code of the dashboard app in the SDK repo.<br/>
+-Add code for the syncing logic of Dashboards and Interpretation to :</p>
+
+<pre><code>Get data from server    
+Update it    
+Add it to the local database    
+Retrieve local database changes      
+</code></pre>
+
+<p>-Use RxAndroid with observables to interact with data.<br/>
+-Make different Controllers for Dashboards, Dashboard Content and Interpretations<br/>
+-Make different Interactors and Stores interfaces for all the resources of dashboards and interprations such as DashboardElement, DashboardItem, Interpretations, InterpretationComment, etc. along with their implementation.<br/>
+-Initialize/ Define the new files in the general modules such as services, persistance, controllers, etc.</p>
+
+<p>A big thank you to my mentor Araz Abishov for the guidance and the feedback :</p>
+
+<p><img class="center" src="/images/feedbackgsoc.png" title="" ></p>
+
+<p>Looking forward to many more open source contributions !</p>
+
+<p><img class="center" src="/images/certigsoc.png" title="" ></p>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">Laavanye Bahl</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2016-08-21T22:57:41+05:30" pubdate data-updated="true">Aug 21<span>st</span>, 2016</time>
+      
+
+<span class="categories">
+  
+    <a class='category' href='/blog/categories/google-summer-of-code/'>Google Summer Of Code</a>, <a class='category' href='/blog/categories/open-source/'>Open Source</a>, <a class='category' href='/blog/categories/android/'>android</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://www.laavanyebahl.com/blog/2016/08/21/gsoc-final-submission/" data-via="LaavanyeBahl" data-counturl="http://www.laavanyebahl.com/blog/2016/08/21/gsoc-final-submission/" >Tweet</a>
+  
+  
+  <div class="g-plusone" data-size="medium"></div>
+  
+  
+    <div class="fb-like" data-send="true" data-width="450" data-show-faces="false"></div>
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/blog/2016/05/28/gsoc-with-dhis2-community-bonding/" title="Previous Post: GSoC with Dhis2 : Community bonding">&laquo; GSoC with Dhis2 : Community bonding</a>
+      
+      
+        <a class="basic-alignment right" href="/blog/2017/03/20/shwaz-get-billboard-top-100-songs-app/" title="Next Post: Shwaz - Get Billboard Top 100 songs App">Shwaz - Get Billboard Top 100 songs App &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+
+  <section>
+    <h1>Comments</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+  </section>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Contact me</h1>
+   <ul>
+
+   <li> laavanye.bahl@gmail.com </li> 
+   <li>
+   <a href = "https://in.linkedin.com/in/laavanyebahl" ><img src = " /images/linkedin.png" border="0" style="border:none;"  /></a>
+   <a href = "https://www.facebook.com/laavanye.bahl" ><img src = " /images/fb.png" border="0" style="border:none;"  /></a>
+   <a href = "https://www.instagram.com/laavanyebahl" ><img src = " /images/insta.png" border="0" style="border:none;"  /></a>
+   <a href = "https://twitter.com/LaavanyeBahl" ><img src = " /images/twi.png" border="0" style="border:none;"  /></a>
+   </li>
+   </ul>
+  
+</section>
+
+<section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2017/03/20/shwaz-get-billboard-top-100-songs-app/">Shwaz - Get Billboard Top 100 songs App</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2016/08/21/gsoc-final-submission/">GSoC Final Submission</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2016/05/28/gsoc-with-dhis2-community-bonding/">GSoC with Dhis2 : Community bonding</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2015/08/02/smashdub/">Smashdub</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2015/06/22/chestream-and-angelhack/">Chestream and AngelHack, Delhi</a>
+      </li>
+    
+  </ul>
+</section>
+
+<section>
+  <h1>GitHub Repos</h1>
+  <ul id="gh_repos">
+    <li class="loading">Status updating...</li>
+  </ul>
+  
+  <a href="https://github.com/laa-1-yay">@laa-1-yay</a> on GitHub
+  
+  <script type="text/javascript">
+    $.domReady(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
+
+        github.showRepos({
+            user: 'laa-1-yay',
+            count: 5,
+            skip_forks: false,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/javascripts/github.js" type="text/javascript"> </script>
+</section>
+
+
+
+<section class="googleplus">
+  <h1>
+    <a href="https://plus.google.com/LAAVANYE BAHL?rel=author">
+      <img src="http://www.google.com/images/icons/ui/gprofile_button-32.png" width="32" height="32">
+      Google+
+    </a>
+  </h1>
+</section>
+
+
+
+<section>
+  <h1>Latest Tweets</h1>
+  <p><a class="twitter-timeline"  href="https://twitter.com/LaavanyeBahl"  data-widget-id="480394190212198400">Tweets by @LaavanyeBahl</a></p>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+
+  
+    <p>Follow <a href="http://twitter.com/LaavanyeBahl">@LaavanyeBahl</a></p>
+  
+</section>
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2017 - Laavanye Bahl 
+  <span class="credit"></span>
+</p>
+
+</footer>
+  
+
+<script type="text/javascript">
+      var disqus_shortname = 'laavanye';
+      
+        
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://www.laavanyebahl.com/blog/2016/08/21/gsoc-final-submission/';
+        var disqus_url = 'http://www.laavanyebahl.com/blog/2016/08/21/gsoc-final-submission/';
+        var disqus_script = 'embed.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#appId=212934732101925&xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+  <script type="text/javascript">
+    (function() {
+      var script = document.createElement('script'); script.type = 'text/javascript'; script.async = true;
+      script.src = 'https://apis.google.com/js/plusone.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(script, s);
+    })();
+  </script>
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>

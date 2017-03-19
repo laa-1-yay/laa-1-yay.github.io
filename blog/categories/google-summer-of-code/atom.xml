@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Google Summer Of Code | Laavanye Bahl]]></title>
+  <link href="http://www.laavanyebahl.com/blog/categories/google-summer-of-code/atom.xml" rel="self"/>
+  <link href="http://www.laavanyebahl.com/"/>
+  <updated>2017-03-20T03:14:31+05:30</updated>
+  <id>http://www.laavanyebahl.com/</id>
+  <author>
+    <name><![CDATA[Laavanye Bahl]]></name>
+    <email><![CDATA[laavanye.bahl@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[GSoC Final Submission]]></title>
+    <link href="http://www.laavanyebahl.com/blog/2016/08/21/gsoc-final-submission/"/>
+    <updated>2016-08-21T22:57:41+05:30</updated>
+    <id>http://www.laavanyebahl.com/blog/2016/08/21/gsoc-final-submission</id>
+    <content type="html"><![CDATA[<p><img class="center" src="/images/gsoc2.png" title="" ></p>
+
+<p>Hi,</p>
+
+<p>This is a blog post about my work, which I did during Google Summer of Code, 2016 with DHIS2 (District Health Information System).</p>
+
+<p>So, the 3 month long program finally comes to an end !</p>
+
+<p>It has been a really good experience working with the open source community, and it&rsquo;s exciting to see the project meet its requirements.</p>
+
+<p>Following are the 2 links to the repositories, I contributed to, which shows the work done by me.</p>
+
+<ul>
+<li><a href="href="https://github.com/laa-1-yay/dhis2-android-sdk/commits/interpretations?author=laa-1-yay">https://github.com/laa-1-yay/dhis2-android-sdk/commits/interpretations?author=laa-1-yay</a>"  <a target="_blank">Dashboard App Related Work</a></li>
+<li><a href="href="https://github.com/dhis2/dhis2-android-dashboard/commits/interpretations?author=laa-1-yay">https://github.com/dhis2/dhis2-android-dashboard/commits/interpretations?author=laa-1-yay</a>"  <a target="_blank">DHIS SDK Work</a></li>
+</ul>
+
+
+<p>Here is the description of the work :</p>
+
+<p><strong>Dashboard App Related Work</strong></p>
+
+<p>Dashboard app is intended for organizing and to provide quick access to different analytical objects (maps, charts, reports, tables, etc) to an individual user. <br/>
+I had to re implement the whole app with the following changes :</p>
+
+<p>-Use general DHIS SDK for everything.  <br/>
+-Follow the MVP (Model View Presenter) architecture.<br/>
+-Use Dagger to inject dependencies of SDK elements and make different Modules and Components for Dashboard/ Interpretations.   <br/>
+-Remove Butter knife code<br/>
+-Re- use UI components and add new ones to the SDK<br/>
+-Seperate Views, Presenters and Impl for every Fragment / Activity</p>
+
+<p>Model-View-Presenter :</p>
+
+<p><img class="center" src="/images/mvp.png" title="" ></p>
+
+<p>In MVP, the Presenter contains the UI business logic for the View. All invocations from the View delegate directly to Presenter. The Presenter is also decoupled directly from the View and talks to it through an interface. This is to allow mocking of the View in a unit test. One common attribute of MVP is that there has to be a lot of two-way dispatching. For example, when someone clicks the &ldquo;Save&rdquo; button, the event handler delegates to the Presenter&rsquo;s &ldquo;OnSave&rdquo; method. Once the save is completed, the Presenter will then call back the View through its interface so that the View can display that the save has completed.</p>
+
+<p><strong>DHIS SDK Work</strong></p>
+
+<p>-Write the business logic code of the dashboard app in the SDK repo.<br/>
+-Add code for the syncing logic of Dashboards and Interpretation to :</p>
+
+<pre><code>Get data from server    
+Update it    
+Add it to the local database    
+Retrieve local database changes      
+</code></pre>
+
+<p>-Use RxAndroid with observables to interact with data.<br/>
+-Make different Controllers for Dashboards, Dashboard Content and Interpretations<br/>
+-Make different Interactors and Stores interfaces for all the resources of dashboards and interprations such as DashboardElement, DashboardItem, Interpretations, InterpretationComment, etc. along with their implementation.<br/>
+-Initialize/ Define the new files in the general modules such as services, persistance, controllers, etc.</p>
+
+<p>A big thank you to my mentor Araz Abishov for the guidance and the feedback :</p>
+
+<p><img class="center" src="/images/feedbackgsoc.png" title="" ></p>
+
+<p>Looking forward to many more open source contributions !</p>
+
+<p><img class="center" src="/images/certigsoc.png" title="" ></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[GSoC with Dhis2 : Community bonding]]></title>
+    <link href="http://www.laavanyebahl.com/blog/2016/05/28/gsoc-with-dhis2-community-bonding/"/>
+    <updated>2016-05-28T16:27:35+05:30</updated>
+    <id>http://www.laavanyebahl.com/blog/2016/05/28/gsoc-with-dhis2-community-bonding</id>
+    <content type="html"><![CDATA[<p><img class="center" src="/images/gsocbanner.png" title="" ></p>
+
+<p>Hi,</p>
+
+<p>I am overwhelmed to get selected for GSoC 2016. I would be working with the <a href="href="https://www.dhis2.org/">https://www.dhis2.org/</a>"  <a target="_blank">DHIS2</a> organization.</p>
+
+<p>It is the preferred health management information system in 47 countries and 23 organizations across four continents. DHIS 2 helps governments and health organizations to manage their operations more effectively, monitor processes and improve communication.</p>
+
+<p><img class="center" src="/images/dhis2.jpg" title="" ></p>
+
+<p>My project is : <a href="href="https://summerofcode.withgoogle.com/projects/#5382475769446400">https://summerofcode.withgoogle.com/projects/#5382475769446400</a>"  <a target="_blank">Enhancing Dashboard Android App</a>.  Current version of DHIS2 android dashboard application uses static images/HTML pages to represent information, which is limiting compared to the web version which allows to drill down into data.</p>
+
+<p>Following are some of the areas I would be working on :</p>
+
+<ul>
+<li>Reimplementing syncing logic with the general sdk</li>
+<li>Generating the analytical objects dynamically</li>
+<li>Making the app work in the offline mode</li>
+<li>Many other UI/UX improvements</li>
+</ul>
+
+
+<p>Dashboard app is intended for organizing and to provide quick access to different analytical objects (maps, charts, reports, tables, etc) to an individual user.</p>
+
+<p>It has been developed for Web, Desktop and Mobile.
+The various applications can be downloaded from <a href="href="https://www.dhis2.org/downloads">https://www.dhis2.org/downloads</a>"  <a target="_blank">here</a></p>
+
+<p>Community Bonding period was used for :</p>
+
+<ul>
+<li>Introduction</li>
+<li>Know more about the community</li>
+<li>Study the code</li>
+<li>Read documentations</li>
+<li>Discussing timeline with the mentor</li>
+</ul>
+
+
+<p>I would like to thank my mentor Araz Abishov for the continuous guidance.</p>
+
+<p>It feels great to be a part of a community of active developers and members working on development and implementation of health information systems across the world and I hope to complete the project with meaningful contributions.</p>
+
+<p>The projects of other contributors can be found in this <a href="href="https://medium.com/dhis-2-summer-of-code">https://medium.com/dhis-2-summer-of-code</a>"  <a target="_blank">publication</a></p>
+]]></content>
+  </entry>
+  
+</feed>

@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: app | Laavanye Bahl]]></title>
+  <link href="http://www.laavanyebahl.com/blog/categories/app/atom.xml" rel="self"/>
+  <link href="http://www.laavanyebahl.com/"/>
+  <updated>2017-03-20T03:14:31+05:30</updated>
+  <id>http://www.laavanyebahl.com/</id>
+  <author>
+    <name><![CDATA[Laavanye Bahl]]></name>
+    <email><![CDATA[laavanye.bahl@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Smashdub]]></title>
+    <link href="http://www.laavanyebahl.com/blog/2015/08/02/smashdub/"/>
+    <updated>2015-08-02T00:59:58+05:30</updated>
+    <id>http://www.laavanyebahl.com/blog/2015/08/02/smashdub</id>
+    <content type="html"><![CDATA[<p>In today&rsquo;s generation, you name a service and there&rsquo;s an app for it, but there are a very few light hearted fun apps which exploit humour.</p>
+
+<p>Whenever I used to talk to my friends about my apps , I  got suggestions to make something for the youth, which is lively, cheerful, basically a leisure app for past time.
+So I wanted to develop something different than a game or service oriented app : what our generation people wanted !</p>
+
+<p>I saw the exponenetial growth and boom of Dubsmash and one day it clicked to me !
+Why can&rsquo;t we just do the opposite ??
+Take a sample video and just dub your voice !
+Being actively involved in theatre , I always loved doing mimicry of various actors. It is one of the most popular hobbies. Be it Shah Rukh Khan&rsquo;s kkk .. Kiran or Salman Khan&rsquo;s commitment, it&rsquo;s always fun to immitate your favorite celebrity.
+People have been doing it since centuries. Why not just automate and make it easy and convinient ?</p>
+
+<p>The App is called Smashdub &ndash; your mimicry partner !
+You can seemlessly add your voice to GIFs and Videos.
+Download it for android from <a href="href="https://play.google.com/store/apps/details?id=smashdub.laav.com.smashdub&amp;hl=en">https://play.google.com/store/apps/details?id=smashdub.laav.com.smashdub&amp;hl=en</a>"  <a target="_blank">Playstore</a></p>
+
+<p><img src="/images/smashdub3.png" title="" >
+<img src="/images/smashdub1.png" title="" >
+<img src="/images/smashdub4.png" title="" >
+<img src="/images/smashdub2.png" title="" >
+<img src="/images/smashdub5.png" title="" ></p>
+
+<p>Some features :</p>
+
+<ul>
+<li>Large collection of GIFs and Videos.</li>
+<li>Search for actors , dialogues, movies, shows, etc.</li>
+<li>Fast and very easy to use.</li>
+<li>Share your Dubs with friends on various platforms.</li>
+<li>Capture or add videos from gallery.</li>
+<li>Share your dubs with the SmashDub community &ndash; a whole social network around it.</li>
+</ul>
+
+
+<p><a href="href="https://www.facebook.com/smashdubmimicry">https://www.facebook.com/smashdubmimicry</a>"  <a target="_blank">FacebookPage</a></p>
+
+<p><a href="href="https://instagram.com/officialsmashdub/">https://instagram.com/officialsmashdub/</a>"  <a target="_blank">InstagramPage</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Chestream and AngelHack, Delhi]]></title>
+    <link href="http://www.laavanyebahl.com/blog/2015/06/22/chestream-and-angelhack/"/>
+    <updated>2015-06-22T00:59:58+05:30</updated>
+    <id>http://www.laavanyebahl.com/blog/2015/06/22/chestream-and-angelhack</id>
+    <content type="html"><![CDATA[<p>Chestream and AngelHack, Delhi &ndash; June 20-21, 2015</p>
+
+<p><a href="href="http://angelhack.com">http://angelhack.com</a>"  <a target="_blank">AngelHack</a> is the biggest Global Hackthon Series in the world hosted every year at over 25 cities including LA, Hong Kong, London, Abu Dhabi, India, Silicon Valley, Tokyo, Cairo, Zurich, Moscow, Bangok, etc.</p>
+
+<p><img src="/images/angelhack.png" title="" ></p>
+
+<p>With a total participation of 42 teams, this was more than just a normal Hackathon, as the winners would get an invite to the HACKcelerator program and an opportunity to present their project at the AngelHack’s global event to be held in Silicon Valley.
+There were also prizes for different categories like Amazon, HP, Mozilla, Clusterpoint, Branch.io and IBM Bluemix, where you had to use their technology innovatively and efficiently.</p>
+
+<p>We had a balanced team of 5 people : Saurav Tomar, Umair Khan, Naman Dwivedi, Prempal Singh and I, strong in Android dev, UI/UX design and backend tech.
+Over 30 hours (overnight), we developed <a href="href="http://chestream.com">http://chestream.com</a>"  <a target="_blank">Chestream</a> a new social network around video streaming.</p>
+
+<p><img src="/images/chestream1.png" title="" >
+<img src="/images/chestream4.png" title="" >
+<img src="/images/chestream2.png" title="" >
+<img src="/images/chestream3.png" title="" ></p>
+
+<p>Chestream is like Meerkat/ Periscope, but is linear and synchronous, i.e. only one person streams at a given time, and who gets to stream is decided by the number of upvotes, they&rsquo;ve got on their stream description and teaser(GIF) prior to them going live. As soon as one stream gets over, the next one is loaded.
+An upvoting system ensures that the creamy layer of the videos is prevalent. So people will view the same content all around the world, not limited by demographics and social circle, upvoted by all unanimously.
+Motivation: Content on apps like Meerkat and Periscope is increasing exponentially, and quality is not assured. Since this is non-archival content, it has only immediate value.
+Chestream&rsquo;s social network is similar to Tumblr / Reddit and is one to many in nature.</p>
+
+<p>Judges were impressed, when we pitched our project and shortlisted us. In the second round, we answered the various questions raised and won their confidence. They liked the concept and found it very different and exciting. Ultimately we won the Hackathon as well as the Clusterpoint challenge, got an invite to HACKcelerator program, opportunity to present our app at the Global Demo Day in Silicon Valley, California and a smartwatch.</p>
+
+<p><img src="/images/chestreamteam.jpg" title="" ></p>
+
+<p>Some features of our app :</p>
+
+<ul>
+<li>A streaming app that works on all networks, even 3G (at 512 kbps).</li>
+<li>Upvote the streams you like.</li>
+<li>Only the most top voted streams get played, in descending order of upvotes.</li>
+<li>Dyanamic comments on the stream.</li>
+</ul>
+
+
+<p>We will be releasing our beta version really soon. You can get the latest updates at <a href="href="http://chestream.com">http://chestream.com</a>"  <a target="_blank">chestream.com</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Vocabulary for Android Wear (Watch) and Mobile]]></title>
+    <link href="http://www.laavanyebahl.com/blog/2015/06/19/vocabulary-for-android-wear-watch-and-mobile/"/>
+    <updated>2015-06-19T00:59:58+05:30</updated>
+    <id>http://www.laavanyebahl.com/blog/2015/06/19/vocabulary-for-android-wear-watch-and-mobile</id>
+    <content type="html"><![CDATA[<p>Vocabulary Flashcards for Android Wear (Watch) and Mobile &ndash; On the go preparation for GRE / SAT / GMAT</p>
+
+<p>This project was a result of some 5-6 hours of experimentation ,when a friend brought a smartwatch to our workplace. The wear is a very interesting device with endless functionality.
+The app works on your device and automatically installs on your wear (watch) too, when connected via bluetooth.</p>
+
+<p><img src="/images/sharing.png" title="" ></p>
+
+<p>Some features of our app :</p>
+
+<ul>
+<li>Works offline ! No interet required.</li>
+<li>Enhance your vocabulary with over 1000 high frequency important GRE words.</li>
+<li>All in one app. Compatible with both android smart watch / wear and mobile.</li>
+<li>Much better than preparing vocabulary from a book. No need to carry heavy books everywhere.</li>
+<li>Learn the meanings along with sample sentences.</li>
+<li>As easy as swiping flash cards and memorizing new words.</li>
+<li>Choose from Basic and Advance category.</li>
+<li>Very simple and user &ndash; friendly UI/ UX</li>
+<li>Algorithm that repeats the words, difficult for you to learn.</li>
+<li>Details about the words you&rsquo;ve mastered or still learning.</li>
+</ul>
+
+
+<p>You can get download the app from  <a href="href="https://play.google.com/store/apps/details?id=com.laav.vocabularyforandroidwear&amp;hl=en">https://play.google.com/store/apps/details?id=com.laav.vocabularyforandroidwear&amp;hl=en</a>"  <a target="_blank">Playstore</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[StampU]]></title>
+    <link href="http://www.laavanyebahl.com/blog/2015/02/13/stampu/"/>
+    <updated>2015-02-13T00:59:58+05:30</updated>
+    <id>http://www.laavanyebahl.com/blog/2015/02/13/stampu</id>
+    <content type="html"><![CDATA[<p>StampU &ndash; India&rsquo;s first stamp based reward program</p>
+
+<p>Developed this app along with Kshitij Mehra and Anirudh Mondal. I am the Chief Software Developer and made the whole app (both front-end and back-end) myself with the valuable inputs of the team. Kshitij and Anirudh handle the Marketing and Operations of the app.</p>
+
+<p><img src="/images/1-min.jpg" title="" >
+<img src="/images/2-min.jpg" title="" >
+<img src="/images/3-min.jpg" title="" >
+<img src="/images/4-min.jpg" title="" >
+<img src="/images/5-min.jpg" title="" >
+<img src="/images/6-min.jpg" title="" ></p>
+
+<p>Some features of our app :</p>
+
+<ul>
+<li>Earn stamps on every visit at your favorite outlets and redeem for exciting rewards.</li>
+<li>Choices made easy- Find the location of your favorite locations through Google maps, address listing, browse through outlet photos, check out the Facebook page instantly on app for quick reviews and offers, know the loyalty rewards and make your choices better.</li>
+<li>Simple Way to Remain loyal- Forget the old complexities of points and cash back . Simply scan the QR card at the outlet to earn one stamp per visit and redeem for premium and exciting rewards exclusive for our users.</li>
+<li>Rewards for first visit too</li>
+<li>Instant Gratification- No need of coupon codes or other redemption hassles.Simply show the mobile to the waiter to get the rewards instantly.</li>
+<li>Simple User Interface and Multiple Login Options- The UI is easy to understand and sign up is easy with Google or Facebook accounts</li>
+<li>One account, unlimited possibilities- Keep track of all your stamps at all your favorite outlets on your phone.</li>
+<li>Never miss out on a chance to earn your stamp again because now everything is right there on your phone.</li>
+<li>No need of fiddling with manual stamp cards anymore.</li>
+<li>24X7 Customer Care- We provide support through email phone and in app forms to address any of your problems as soon as possible.</li>
+</ul>
+
+
+<p>You can get download the app from  <a href="href="https://play.google.com/store/apps/details?id=com.app.stampu&amp;hl=en">https://play.google.com/store/apps/details?id=com.app.stampu&amp;hl=en</a>"  <a target="_blank">Playstore</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Mypoolin - Plan &amp; Pay Money with Friends]]></title>
+    <link href="http://www.laavanyebahl.com/blog/2014/12/31/mypoolin-plan-and-pay-money-with-friends/"/>
+    <updated>2014-12-31T00:59:58+05:30</updated>
+    <id>http://www.laavanyebahl.com/blog/2014/12/31/mypoolin-plan-and-pay-money-with-friends</id>
+    <content type="html"><![CDATA[<p>Mypoolin &ndash; Plan &amp; Pay Money with Friends</p>
+
+<p>I did my winter internship at Mypoolin and developed the android app along with Archit Verma on the backend. It was great working with the founders : Ankit Singh and Rohit Taneja, learning new things everday.</p>
+
+<p><img src="/images/mypoolin2_converted-min.jpg" width="200" height="314" title="" >
+<img src="/images/mypoolin_converted-min.jpg" width="185" height="290">
+<img src="/images/mypoolin3_converted-min.jpg" width="200" height="314">
+<img src="/images/mypoolin4_converted-min.jpg" width="200" height="314" title="" >
+<img src="/images/mypoolin5_converted-min.jpg" width="200" height="314" title="" >
+<img src="/images/mypoolin6_converted-min.jpg" width="200" height="314" title="" ></p>
+
+<p>MyPoolin is your place to plan and pay money with friends in the most awesome and seamless manner possible.</p>
+
+<p>Whether it is for movies, events, gifting, food &amp; dining, travel, party or anything, share a plan with friends and discuss who is in, who is out, what to gift, what to order, where to travel &ndash; anything!</p>
+
+<p>Then, MyPoolin makes group payments super easy and hassle-free killing uncomfortable “You Owe Me” situations that arise when one person pays and chases others for their share as now you can pool money with friends for anything in less than 5 minutes!</p>
+
+<p>Download MyPoolin and experience pooling as easy as 1-2-3
+1) Create a Pool with friends in few seconds
+2) Chat with them and pay your share
+3) Get collected amount as cash code of our partner sites or in your bank account</p>
+
+<p>Cool part is &ndash; Your share is kept safe with the payment partners of MyPoolin such as PayU, Mobikwik &amp; others till everyone pays! Anyone in the pool can pay using mobile wallets or any debit, credit card and net banking and all your friends don’t need to have the same mobile wallets as well. If the pool is cancelled by you, your money gets refunded instantly to your wallet or within 3-4 working days into your bank account.</p>
+
+<p>(MyPoolin is a cool social payments app that doesn’t hold users’ money but just links and coordinates with mobile wallets such as Mobikwik and different payment gateways)
+Once the amount is collected, Pool Organizer (the person who started the pool) can redeem the collected amount with a cash code on our Partner merchant sites or the collected amount can be taken out into the Organizer&rsquo;s bank account.</p>
+
+<p><strong>Features of MyPoolin</strong></p>
+
+<ul>
+<li>Social feeds of trending public pools and your friends’ pools</li>
+<li>Recommendations &ndash; Awesome ideas (events, movies, gifts and trips) to share with friends with a tap and pool for</li>
+<li>Chat with friends about any idea you are pooling for</li>
+<li>Toggle to set your status &ndash; Confirm or Decline a plan</li>
+<li>Link wallets such as Mobikwik with your account</li>
+</ul>
+
+
+<p>Now there’s nothing in the way for you and your friends to get irritated with.
+Spend more time doing things rather than dilly-dallying</p>
+
+<p>You can get download the app from  <a href="href="https://play.google.com/store/apps/details?id=com.app.mypoolin&amp;hl=en">https://play.google.com/store/apps/details?id=com.app.mypoolin&amp;hl=en</a>"  <a target="_blank">Playstore</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>

@@ -1,119 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
 
-<!DOCTYPE html>
-<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
-<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
-<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
-<head>
-  <meta charset="utf-8">
-  <title>Laavanye Bahl</title>
-  <meta name="author" content="Laavanye Bahl">
-
-  
-  <meta name="description" content="Download it for android from Playstore Hey guys, so I&rsquo;ve developed this Android App to make your life much easier. I have always wanted to &hellip;">
-  
-
-  <!-- http://t.co/dKP3o1e -->
-  <meta name="HandheldFriendly" content="True">
-  <meta name="MobileOptimized" content="320">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title><![CDATA[Laavanye Bahl]]></title>
+  <link href="http://www.laavanyebahl.com/atom.xml" rel="self"/>
+  <link href="http://www.laavanyebahl.com/"/>
+  <updated>2017-03-20T03:14:31+05:30</updated>
+  <id>http://www.laavanyebahl.com/</id>
+  <author>
+    <name><![CDATA[Laavanye Bahl]]></name>
+    <email><![CDATA[laavanye.bahl@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
 
   
-  <link rel="canonical" href="http://www.laavanyebahl.com/">
-  
-   <link href="/favicon.png" rel="icon">
-
-  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-  <script src="/javascripts/modernizr-2.0.js"></script>
-  <script src="/javascripts/ender.js"></script>
-  <script src="/javascripts/octopress.js" type="text/javascript"></script>
-  <link href="/atom.xml" rel="alternate" title="Laavanye Bahl" type="application/atom+xml">
-  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
-<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-
-  
-  <script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-52369835-1']);
-    _gaq.push(['_trackPageview']);
-
-    (function() {
-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-  </script>
-
-
-</head>
-
-<body   >
-  <header role="banner"><hgroup>
-  <h1><a href="/">Laavanye Bahl</a></h1>
-  
-    <h2>A blog about my projects.</h2>
-  
-</hgroup>
-
-</header>
-  <nav role="navigation"><ul class="subscription" data-subscription="rss email">
-  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
-  
-    <li><a href="laavanye.bahl@gmail.com" rel="subscribe-email" title="subscribe via email">Email</a></li>
-  
-</ul>
-  
-<form action="https://www.google.com/search" method="get">
-  <fieldset role="search">
-    <input type="hidden" name="q" value="site:www.laavanyebahl.com" />
-    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
-  </fieldset>
-</form>
-  
-<ul class="main-navigation">
- <li><a href="/">Blog</a></li>
-  <li><a href="/blog/archives">Archives</a></li>
-   <li><a href="/blog/categories">Categories</a></li>
-   <li><a href="/about">About Me</a></li>
-    
-
-</ul>
-
-</nav>
-  <div id="main">
-    <div id="content">
-      <div class="blog-index">
-  
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2017/03/20/shwaz-get-billboard-top-100-songs-app/">Shwaz - Get Billboard Top 100 Songs App</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2017-03-20T01:08:47+05:30" pubdate data-updated="true">Mar 20<span>th</span>, 2017</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p><img src="/images/shwazbanner.png" title="" >
+  <entry>
+    <title type="html"><![CDATA[Shwaz - Get Billboard Top 100 songs App]]></title>
+    <link href="http://www.laavanyebahl.com/blog/2017/03/20/shwaz-get-billboard-top-100-songs-app/"/>
+    <updated>2017-03-20T01:08:47+05:30</updated>
+    <id>http://www.laavanyebahl.com/blog/2017/03/20/shwaz-get-billboard-top-100-songs-app</id>
+    <content type="html"><![CDATA[<p><img src="http://www.laavanyebahl.com/images/shwazbanner.png" title="" >
 Download it for android from <a href="https://play.google.com/store/apps/details?id=com.laav.getbillboardtop100"  target="_blank">Playstore</a></p>
 
 <p>Hey guys, so I&rsquo;ve developed this Android App to make your life much easier.</p>
@@ -129,8 +34,8 @@ It&rsquo;s the best way to stay updated and have the latest playlist at all time
 You also get a notification when a new song enters the list.
 I hope y&#8217;all like it! !</p>
 
-<p><img src="/images/shwaz2.png" title="" >
-<img src="/images/shwaz3.png" title="" ></p>
+<p><img src="http://www.laavanyebahl.com/images/shwaz2.png" title="" >
+<img src="http://www.laavanyebahl.com/images/shwaz3.png" title="" ></p>
 
 <p>FEATURES :</p>
 
@@ -147,42 +52,15 @@ I hope y&#8217;all like it! !</p>
 
 <p>Link to Terms of Use : <a href="http://textuploader.com/d1pjh/raw">http://textuploader.com/d1pjh/raw</a>  <br/>
 Link to Privacy Policy : <a href="http://textuploader.com/d1hpx/raw">http://textuploader.com/d1hpx/raw</a></p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2016/08/21/gsoc-final-submission/">GSoC Final Submission</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2016-08-21T22:57:41+05:30" pubdate data-updated="true">Aug 21<span>st</span>, 2016</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p><img class="center" src="/images/gsoc2.png" title="" ></p>
+  <entry>
+    <title type="html"><![CDATA[GSoC Final Submission]]></title>
+    <link href="http://www.laavanyebahl.com/blog/2016/08/21/gsoc-final-submission/"/>
+    <updated>2016-08-21T22:57:41+05:30</updated>
+    <id>http://www.laavanyebahl.com/blog/2016/08/21/gsoc-final-submission</id>
+    <content type="html"><![CDATA[<p><img class="center" src="http://www.laavanyebahl.com/images/gsoc2.png" title="" ></p>
 
 <p>Hi,</p>
 
@@ -216,7 +94,7 @@ I had to re implement the whole app with the following changes :</p>
 
 <p>Model-View-Presenter :</p>
 
-<p><img class="center" src="/images/mvp.png" title="" ></p>
+<p><img class="center" src="http://www.laavanyebahl.com/images/mvp.png" title="" ></p>
 
 <p>In MVP, the Presenter contains the UI business logic for the View. All invocations from the View delegate directly to Presenter. The Presenter is also decoupled directly from the View and talks to it through an interface. This is to allow mocking of the View in a unit test. One common attribute of MVP is that there has to be a lot of two-way dispatching. For example, when someone clicks the &ldquo;Save&rdquo; button, the event handler delegates to the Presenter&rsquo;s &ldquo;OnSave&rdquo; method. Once the save is completed, the Presenter will then call back the View through its interface so that the View can display that the save has completed.</p>
 
@@ -238,47 +116,20 @@ Retrieve local database changes
 
 <p>A big thank you to my mentor Araz Abishov for the guidance and the feedback :</p>
 
-<p><img class="center" src="/images/feedbackgsoc.png" title="" ></p>
+<p><img class="center" src="http://www.laavanyebahl.com/images/feedbackgsoc.png" title="" ></p>
 
 <p>Looking forward to many more open source contributions !</p>
 
-<p><img class="center" src="/images/certigsoc.png" title="" ></p>
-</div>
+<p><img class="center" src="http://www.laavanyebahl.com/images/certigsoc.png" title="" ></p>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2016/05/28/gsoc-with-dhis2-community-bonding/">GSoC With Dhis2 : Community Bonding</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2016-05-28T16:27:35+05:30" pubdate data-updated="true">May 28<span>th</span>, 2016</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p><img class="center" src="/images/gsocbanner.png" title="" ></p>
+  <entry>
+    <title type="html"><![CDATA[GSoC with Dhis2 : Community bonding]]></title>
+    <link href="http://www.laavanyebahl.com/blog/2016/05/28/gsoc-with-dhis2-community-bonding/"/>
+    <updated>2016-05-28T16:27:35+05:30</updated>
+    <id>http://www.laavanyebahl.com/blog/2016/05/28/gsoc-with-dhis2-community-bonding</id>
+    <content type="html"><![CDATA[<p><img class="center" src="http://www.laavanyebahl.com/images/gsocbanner.png" title="" ></p>
 
 <p>Hi,</p>
 
@@ -286,7 +137,7 @@ Retrieve local database changes
 
 <p>It is the preferred health management information system in 47 countries and 23 organizations across four continents. DHIS 2 helps governments and health organizations to manage their operations more effectively, monitor processes and improve communication.</p>
 
-<p><img class="center" src="/images/dhis2.jpg" title="" ></p>
+<p><img class="center" src="http://www.laavanyebahl.com/images/dhis2.jpg" title="" ></p>
 
 <p>My project is : <a href="https://summerofcode.withgoogle.com/projects/#5382475769446400"  target="_blank">Enhancing Dashboard Android App</a>.  Current version of DHIS2 android dashboard application uses static images/HTML pages to represent information, which is limiting compared to the web version which allows to drill down into data.</p>
 
@@ -321,42 +172,15 @@ The various applications can be downloaded from <a href="https://www.dhis2.org/d
 <p>It feels great to be a part of a community of active developers and members working on development and implementation of health information systems across the world and I hope to complete the project with meaningful contributions.</p>
 
 <p>The projects of other contributors can be found in this <a href="https://medium.com/dhis-2-summer-of-code"  target="_blank">publication</a></p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2015/08/02/smashdub/">Smashdub</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2015-08-02T00:59:58+05:30" pubdate data-updated="true">Aug 2<span>nd</span>, 2015</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>In today&rsquo;s generation, you name a service and there&rsquo;s an app for it, but there are a very few light hearted fun apps which exploit humour.</p>
+  <entry>
+    <title type="html"><![CDATA[Smashdub]]></title>
+    <link href="http://www.laavanyebahl.com/blog/2015/08/02/smashdub/"/>
+    <updated>2015-08-02T00:59:58+05:30</updated>
+    <id>http://www.laavanyebahl.com/blog/2015/08/02/smashdub</id>
+    <content type="html"><![CDATA[<p>In today&rsquo;s generation, you name a service and there&rsquo;s an app for it, but there are a very few light hearted fun apps which exploit humour.</p>
 
 <p>Whenever I used to talk to my friends about my apps , I  got suggestions to make something for the youth, which is lively, cheerful, basically a leisure app for past time.
 So I wanted to develop something different than a game or service oriented app : what our generation people wanted !</p>
@@ -371,11 +195,11 @@ People have been doing it since centuries. Why not just automate and make it eas
 You can seemlessly add your voice to GIFs and Videos.
 Download it for android from <a href="https://play.google.com/store/apps/details?id=smashdub.laav.com.smashdub&hl=en"  target="_blank">Playstore</a></p>
 
-<p><img src="/images/smashdub3.png" title="" >
-<img src="/images/smashdub1.png" title="" >
-<img src="/images/smashdub4.png" title="" >
-<img src="/images/smashdub2.png" title="" >
-<img src="/images/smashdub5.png" title="" ></p>
+<p><img src="http://www.laavanyebahl.com/images/smashdub3.png" title="" >
+<img src="http://www.laavanyebahl.com/images/smashdub1.png" title="" >
+<img src="http://www.laavanyebahl.com/images/smashdub4.png" title="" >
+<img src="http://www.laavanyebahl.com/images/smashdub2.png" title="" >
+<img src="http://www.laavanyebahl.com/images/smashdub5.png" title="" ></p>
 
 <p>Some features :</p>
 
@@ -392,46 +216,19 @@ Download it for android from <a href="https://play.google.com/store/apps/details
 <p><a href="https://www.facebook.com/smashdubmimicry"  target="_blank">FacebookPage</a></p>
 
 <p><a href="https://instagram.com/officialsmashdub/"  target="_blank">InstagramPage</a></p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2015/06/22/chestream-and-angelhack/">Chestream and AngelHack, Delhi</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2015-06-22T00:59:58+05:30" pubdate data-updated="true">Jun 22<span>nd</span>, 2015</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>Chestream and AngelHack, Delhi &ndash; June 20-21, 2015</p>
+  <entry>
+    <title type="html"><![CDATA[Chestream and AngelHack, Delhi]]></title>
+    <link href="http://www.laavanyebahl.com/blog/2015/06/22/chestream-and-angelhack/"/>
+    <updated>2015-06-22T00:59:58+05:30</updated>
+    <id>http://www.laavanyebahl.com/blog/2015/06/22/chestream-and-angelhack</id>
+    <content type="html"><![CDATA[<p>Chestream and AngelHack, Delhi &ndash; June 20-21, 2015</p>
 
 <p><a href="http://angelhack.com"  target="_blank">AngelHack</a> is the biggest Global Hackthon Series in the world hosted every year at over 25 cities including LA, Hong Kong, London, Abu Dhabi, India, Silicon Valley, Tokyo, Cairo, Zurich, Moscow, Bangok, etc.</p>
 
-<p><img src="/images/angelhack.png" title="" ></p>
+<p><img src="http://www.laavanyebahl.com/images/angelhack.png" title="" ></p>
 
 <p>With a total participation of 42 teams, this was more than just a normal Hackathon, as the winners would get an invite to the HACKcelerator program and an opportunity to present their project at the AngelHack’s global event to be held in Silicon Valley.
 There were also prizes for different categories like Amazon, HP, Mozilla, Clusterpoint, Branch.io and IBM Bluemix, where you had to use their technology innovatively and efficiently.</p>
@@ -439,10 +236,10 @@ There were also prizes for different categories like Amazon, HP, Mozilla, Cluste
 <p>We had a balanced team of 5 people : Saurav Tomar, Umair Khan, Naman Dwivedi, Prempal Singh and I, strong in Android dev, UI/UX design and backend tech.
 Over 30 hours (overnight), we developed <a href="http://chestream.com"  target="_blank">Chestream</a> a new social network around video streaming.</p>
 
-<p><img src="/images/chestream1.png" title="" >
-<img src="/images/chestream4.png" title="" >
-<img src="/images/chestream2.png" title="" >
-<img src="/images/chestream3.png" title="" ></p>
+<p><img src="http://www.laavanyebahl.com/images/chestream1.png" title="" >
+<img src="http://www.laavanyebahl.com/images/chestream4.png" title="" >
+<img src="http://www.laavanyebahl.com/images/chestream2.png" title="" >
+<img src="http://www.laavanyebahl.com/images/chestream3.png" title="" ></p>
 
 <p>Chestream is like Meerkat/ Periscope, but is linear and synchronous, i.e. only one person streams at a given time, and who gets to stream is decided by the number of upvotes, they&rsquo;ve got on their stream description and teaser(GIF) prior to them going live. As soon as one stream gets over, the next one is loaded.
 An upvoting system ensures that the creamy layer of the videos is prevalent. So people will view the same content all around the world, not limited by demographics and social circle, upvoted by all unanimously.
@@ -451,7 +248,7 @@ Chestream&rsquo;s social network is similar to Tumblr / Reddit and is one to man
 
 <p>Judges were impressed, when we pitched our project and shortlisted us. In the second round, we answered the various questions raised and won their confidence. They liked the concept and found it very different and exciting. Ultimately we won the Hackathon as well as the Clusterpoint challenge, got an invite to HACKcelerator program, opportunity to present our app at the Global Demo Day in Silicon Valley, California and a smartwatch.</p>
 
-<p><img src="/images/chestreamteam.jpg" title="" ></p>
+<p><img src="http://www.laavanyebahl.com/images/chestreamteam.jpg" title="" ></p>
 
 <p>Some features of our app :</p>
 
@@ -464,47 +261,20 @@ Chestream&rsquo;s social network is similar to Tumblr / Reddit and is one to man
 
 
 <p>We will be releasing our beta version really soon. You can get the latest updates at <a href="http://chestream.com"  target="_blank">chestream.com</a>.</p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2015/06/19/vocabulary-for-android-wear-watch-and-mobile/">Vocabulary for Android Wear (Watch) and Mobile</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2015-06-19T00:59:58+05:30" pubdate data-updated="true">Jun 19<span>th</span>, 2015</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>Vocabulary Flashcards for Android Wear (Watch) and Mobile &ndash; On the go preparation for GRE / SAT / GMAT</p>
+  <entry>
+    <title type="html"><![CDATA[Vocabulary for Android Wear (Watch) and Mobile]]></title>
+    <link href="http://www.laavanyebahl.com/blog/2015/06/19/vocabulary-for-android-wear-watch-and-mobile/"/>
+    <updated>2015-06-19T00:59:58+05:30</updated>
+    <id>http://www.laavanyebahl.com/blog/2015/06/19/vocabulary-for-android-wear-watch-and-mobile</id>
+    <content type="html"><![CDATA[<p>Vocabulary Flashcards for Android Wear (Watch) and Mobile &ndash; On the go preparation for GRE / SAT / GMAT</p>
 
 <p>This project was a result of some 5-6 hours of experimentation ,when a friend brought a smartwatch to our workplace. The wear is a very interesting device with endless functionality.
 The app works on your device and automatically installs on your wear (watch) too, when connected via bluetooth.</p>
 
-<p><img src="/images/sharing.png" title="" ></p>
+<p><img src="http://www.laavanyebahl.com/images/sharing.png" title="" ></p>
 
 <p>Some features of our app :</p>
 
@@ -523,51 +293,24 @@ The app works on your device and automatically installs on your wear (watch) too
 
 
 <p>You can get download the app from  <a href="https://play.google.com/store/apps/details?id=com.laav.vocabularyforandroidwear&hl=en"  target="_blank">Playstore</a>.</p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2015/02/13/stampu/">StampU</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2015-02-13T00:59:58+05:30" pubdate data-updated="true">Feb 13<span>th</span>, 2015</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>StampU &ndash; India&rsquo;s first stamp based reward program</p>
+  <entry>
+    <title type="html"><![CDATA[StampU]]></title>
+    <link href="http://www.laavanyebahl.com/blog/2015/02/13/stampu/"/>
+    <updated>2015-02-13T00:59:58+05:30</updated>
+    <id>http://www.laavanyebahl.com/blog/2015/02/13/stampu</id>
+    <content type="html"><![CDATA[<p>StampU &ndash; India&rsquo;s first stamp based reward program</p>
 
 <p>Developed this app along with Kshitij Mehra and Anirudh Mondal. I am the Chief Software Developer and made the whole app (both front-end and back-end) myself with the valuable inputs of the team. Kshitij and Anirudh handle the Marketing and Operations of the app.</p>
 
-<p><img src="/images/1-min.jpg" title="" >
-<img src="/images/2-min.jpg" title="" >
-<img src="/images/3-min.jpg" title="" >
-<img src="/images/4-min.jpg" title="" >
-<img src="/images/5-min.jpg" title="" >
-<img src="/images/6-min.jpg" title="" ></p>
+<p><img src="http://www.laavanyebahl.com/images/1-min.jpg" title="" >
+<img src="http://www.laavanyebahl.com/images/2-min.jpg" title="" >
+<img src="http://www.laavanyebahl.com/images/3-min.jpg" title="" >
+<img src="http://www.laavanyebahl.com/images/4-min.jpg" title="" >
+<img src="http://www.laavanyebahl.com/images/5-min.jpg" title="" >
+<img src="http://www.laavanyebahl.com/images/6-min.jpg" title="" ></p>
 
 <p>Some features of our app :</p>
 
@@ -586,51 +329,24 @@ The app works on your device and automatically installs on your wear (watch) too
 
 
 <p>You can get download the app from  <a href="https://play.google.com/store/apps/details?id=com.app.stampu&hl=en"  target="_blank">Playstore</a>.</p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2014/12/31/mypoolin-plan-and-pay-money-with-friends/">Mypoolin - Plan &amp; Pay Money With Friends</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2014-12-31T00:59:58+05:30" pubdate data-updated="true">Dec 31<span>st</span>, 2014</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>Mypoolin &ndash; Plan &amp; Pay Money with Friends</p>
+  <entry>
+    <title type="html"><![CDATA[Mypoolin - Plan &amp; Pay Money with Friends]]></title>
+    <link href="http://www.laavanyebahl.com/blog/2014/12/31/mypoolin-plan-and-pay-money-with-friends/"/>
+    <updated>2014-12-31T00:59:58+05:30</updated>
+    <id>http://www.laavanyebahl.com/blog/2014/12/31/mypoolin-plan-and-pay-money-with-friends</id>
+    <content type="html"><![CDATA[<p>Mypoolin &ndash; Plan &amp; Pay Money with Friends</p>
 
 <p>I did my winter internship at Mypoolin and developed the android app along with Archit Verma on the backend. It was great working with the founders : Ankit Singh and Rohit Taneja, learning new things everday.</p>
 
-<p><img src="/images/mypoolin2_converted-min.jpg" width="200" height="314" title="" >
-<img src="/images/mypoolin_converted-min.jpg" width="185" height="290">
-<img src="/images/mypoolin3_converted-min.jpg" width="200" height="314">
-<img src="/images/mypoolin4_converted-min.jpg" width="200" height="314" title="" >
-<img src="/images/mypoolin5_converted-min.jpg" width="200" height="314" title="" >
-<img src="/images/mypoolin6_converted-min.jpg" width="200" height="314" title="" ></p>
+<p><img src="http://www.laavanyebahl.com/images/mypoolin2_converted-min.jpg" width="200" height="314" title="" >
+<img src="http://www.laavanyebahl.com/images/mypoolin_converted-min.jpg" width="185" height="290">
+<img src="http://www.laavanyebahl.com/images/mypoolin3_converted-min.jpg" width="200" height="314">
+<img src="http://www.laavanyebahl.com/images/mypoolin4_converted-min.jpg" width="200" height="314" title="" >
+<img src="http://www.laavanyebahl.com/images/mypoolin5_converted-min.jpg" width="200" height="314" title="" >
+<img src="http://www.laavanyebahl.com/images/mypoolin6_converted-min.jpg" width="200" height="314" title="" ></p>
 
 <p>MyPoolin is your place to plan and pay money with friends in the most awesome and seamless manner possible.</p>
 
@@ -663,42 +379,15 @@ Once the amount is collected, Pool Organizer (the person who started the pool) c
 Spend more time doing things rather than dilly-dallying</p>
 
 <p>You can get download the app from  <a href="https://play.google.com/store/apps/details?id=com.app.mypoolin&hl=en"  target="_blank">Playstore</a>.</p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2014/04/22/gsf-hacks/">GSF Hacks</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2014-04-22T00:59:58+05:30" pubdate data-updated="true">Apr 22<span>nd</span>, 2014</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>GSF Hacks &ndash; April 19-20, 2014</p>
+  <entry>
+    <title type="html"><![CDATA[GSF Hacks]]></title>
+    <link href="http://www.laavanyebahl.com/blog/2014/04/22/gsf-hacks/"/>
+    <updated>2014-04-22T00:59:58+05:30</updated>
+    <id>http://www.laavanyebahl.com/blog/2014/04/22/gsf-hacks</id>
+    <content type="html"><![CDATA[<p>GSF Hacks &ndash; April 19-20, 2014</p>
 
 <p>Hosted at Investopad, it is surely the best hackathon I&rsquo;ve attended till now.
 They selected top participants from a HackerEarth coding event. Hence, it was challenging.</p>
@@ -709,10 +398,10 @@ largest funding platform for the Indian start-ups.</p>
 
 <p>Our team &ndash; codeminators (Raghav , Puja and me) participated in the shine.com challenge and came second.</p>
 
-<p><img src="/images/9.jpg" title="" ></p>
+<p><img src="http://www.laavanyebahl.com/images/9.jpg" title="" ></p>
 
-<p><img src="/images/13.jpg" title="" >
-<img src="/images/17.jpg" title="" ></p>
+<p><img src="http://www.laavanyebahl.com/images/13.jpg" title="" >
+<img src="http://www.laavanyebahl.com/images/17.jpg" title="" ></p>
 
 <p>shine.com, an initiative of Hindustan Times is an online portal for finding jobs. Registration pages are often lengthy , boring and time consuming. So the task was to make their mobile app fast, efficient and easy to use.</p>
 
@@ -720,23 +409,23 @@ largest funding platform for the Indian start-ups.</p>
 
 <p>They made sure they provided the fuel to keep us going &ndash; #unlimitedRedBull</p>
 
-<p><img src="/images/10.jpg" title="" ></p>
+<p><img src="http://www.laavanyebahl.com/images/10.jpg" title="" ></p>
 
 <p>There were a lot of fun activities as well at regualar intervals to win goodies and relax the mind.</p>
 
-<p><img src="/images/19.jpg">
-<img src="/images/15.jpg" title="" >
-<img src="/images/18.jpg" title="" >
-<img src="/images/12.jpg"></p>
+<p><img src="http://www.laavanyebahl.com/images/19.jpg">
+<img src="http://www.laavanyebahl.com/images/15.jpg" title="" >
+<img src="http://www.laavanyebahl.com/images/18.jpg" title="" >
+<img src="http://www.laavanyebahl.com/images/12.jpg"></p>
 
 <p>Team OSC (Arnav , Umair, Saurav, Abhinav), our seniors at DTU came first in their challenge and won some cool prizes.</p>
 
-<p><img src="/images/20.jpg" title="" >
-<img src="/images/22.png" title="" ></p>
+<p><img src="http://www.laavanyebahl.com/images/20.jpg" title="" >
+<img src="http://www.laavanyebahl.com/images/22.png" title="" ></p>
 
 <p>We also got the oppurtunity to watch Jimi Hendrix live.</p>
 
-<p><img src="/images/21.jpg"></p>
+<p><img src="http://www.laavanyebahl.com/images/21.jpg"></p>
 
 <p>Some features of our app :</p>
 
@@ -752,236 +441,79 @@ employee&rsquo;s speaking skills.</li>
 
 
 <p>You can find the code on <a href="https://github.com/team-LRP/shinedotcom"  target="_blank">GitHub</a></p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2014/03/23/baba-preediction-and-codelhi/">Baba Prediction and CoDelhi</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2014-03-23T01:38:21+05:30" pubdate data-updated="true">Mar 23<span>rd</span>, 2014</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>CoDelhi &ndash; This was our first Hackathon organized at DTU in association with the Google Developer Groups.</p>
+  <entry>
+    <title type="html"><![CDATA[Baba Prediction and CoDelhi]]></title>
+    <link href="http://www.laavanyebahl.com/blog/2014/03/23/baba-preediction-and-codelhi/"/>
+    <updated>2014-03-23T01:38:21+05:30</updated>
+    <id>http://www.laavanyebahl.com/blog/2014/03/23/baba-preediction-and-codelhi</id>
+    <content type="html"><![CDATA[<p>CoDelhi &ndash; This was our first Hackathon organized at DTU in association with the Google Developer Groups.</p>
 
 <p>We formed our team &ndash; initially called &ldquo;codeminators&rdquo; that included Raghav, Puja, Anshul and me and came 2nd in this event.
 This will always be important as it gave us the required boost and motivation.</p>
 
-<p><img src="/images/4.jpg" title="" >
-<img src="/images/5.jpg" title="" ></p>
+<p><img src="http://www.laavanyebahl.com/images/4.jpg" title="" >
+<img src="http://www.laavanyebahl.com/images/5.jpg" title="" ></p>
 
-<p><img src="/images/24.png" title="" >
-<img src="/images/23.png" title="" ></p>
+<p><img src="http://www.laavanyebahl.com/images/24.png" title="" >
+<img src="http://www.laavanyebahl.com/images/23.png" title="" ></p>
 
 <p>There were also a lot of interesting workshops , talks and sessions.</p>
 
 <p>In those 36 hrs we developed Baba Predicton which is basically an app for leisure. You ask a question about the Future in Yes or No and get the answer in terms of a humorous song. Often simple funny things go viral, right ? ;)</p>
 
-<p><img src="/images/6.jpg" title="" >
-<img src="/images/7.jpg" title="" >
-<img src="/images/8.jpg" title="" ></p>
+<p><img src="http://www.laavanyebahl.com/images/6.jpg" title="" >
+<img src="http://www.laavanyebahl.com/images/7.jpg" title="" >
+<img src="http://www.laavanyebahl.com/images/8.jpg" title="" ></p>
 
 <p>We&rsquo;ll upload it on Play store soon after expanding our data base.</p>
-</div>
+]]></content>
+  </entry>
   
+  <entry>
+    <title type="html"><![CDATA[About Me]]></title>
+    <link href="http://www.laavanyebahl.com/blog/2014/01/06/about-me/"/>
+    <updated>2014-01-06T00:59:56+05:30</updated>
+    <id>http://www.laavanyebahl.com/blog/2014/01/06/about-me</id>
+    <content type="html"><![CDATA[<p><img class="left" src="http://www.laavanyebahl.com/images/dp2.jpg" title="myphoto" ></p>
+
+<p>Hi,</p>
+
+<p>I am Laavanye Bahl (quite obvious), 21 year old, studying Software Engineering at Delhi Colllege of Engineering (DTU), currently in my final year.
+I am a developer with 3 years of experience, especially Android and like to discover new technologies and things in general.</p>
+
+<p>Talking about my latest work,
+I completed my Google Summer of Code project recently and here is the link to the blog : <a href="http://laavanyebahl.com/blog/2016/08/21/gsoc-final-submission/"  target="_blank">GSoC Final Submission</a></p>
+
+<p><strong>P.S.</strong> &ndash; I had started this blog in my 1st year with some introductory information written below :p</p>
+
+<p>Just last year I graduated from Modern School, Barakhamba Road, New Delhi where I spent 13 wonderful years.
+The thing I&rsquo;ll always love about Modern is that it never focused only on studies. It gave the the much seeked freedom to do what you like.</p>
+
+<p>Feels like yesterday, happy kids throwing graduation hats in the air, enjoying the last few days together in the instituition.</p>
+
+<p><img class="centre" src="http://www.laavanyebahl.com/images/1.jpg" title="grad" ></p>
+
+<p><img class="centre" src="http://www.laavanyebahl.com/images/2.jpg" title="grad" ></p>
+
+<p>Selecting the college was a tough task. After irritating my seniors, friends, family and teachers for advice I finally chose DTU over HKUST. I always wanted to study here.
+This is a picture from the terrace of the astounding campus.</p>
+
+<p><img class="centre" src="http://www.laavanyebahl.com/images/3.jpg" title="" ></p>
+
+<p>Not lately, but I&rsquo;ve always tried to take out time for some of my interests like – basketball, theatre, sketching and playing the acoustic guitar.</p>
+
+<p>You can contact me at &ndash;</p>
+
+<p>laavanye.bahl@gmail.com<br/>
+<a href="https://www.facebook.com/laavanye.bahl"  target="_blank">Facebook</a><br/>
+<a href="https://www.instagram.com/laavanyebahl"  target="_blank">Instagram</a><br/>
+<a href="https://twitter.com/LaavanyeBahl"  target="_blank">Twitter</a><br/>
+<a href="https://in.linkedin.com/in/laavanyebahl"  target="_blank">LinkedIn</a><br/>
+<a href="https://github.com/laa-1-yay"  target="_blank">Github</a></p>
+]]></content>
+  </entry>
   
-
-
-    </article>
-  
-  <div class="pagination">
-    
-      <a class="prev" href="/blog/page/2/">&larr; Older</a>
-    
-    <a href="/blog/archives">Blog Archives</a>
-    
-  </div>
-</div>
-<aside class="sidebar">
-  
-    <section>
-  <h1>Contact me</h1>
-   <ul>
-
-   <li> laavanye.bahl@gmail.com </li> 
-   <li>
-   <a href = "https://in.linkedin.com/in/laavanyebahl" ><img src = " /images/linkedin.png" border="0" style="border:none;"  /></a>
-   <a href = "https://www.facebook.com/laavanye.bahl" ><img src = " /images/fb.png" border="0" style="border:none;"  /></a>
-   <a href = "https://www.instagram.com/laavanyebahl" ><img src = " /images/insta.png" border="0" style="border:none;"  /></a>
-   <a href = "https://twitter.com/LaavanyeBahl" ><img src = " /images/twi.png" border="0" style="border:none;"  /></a>
-   </li>
-   </ul>
-  
-</section>
-
-<section>
-  <h1>Recent Posts</h1>
-  <ul id="recent_posts">
-    
-      <li class="post">
-        <a href="/blog/2017/03/20/shwaz-get-billboard-top-100-songs-app/">Shwaz - Get Billboard Top 100 songs App</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2016/08/21/gsoc-final-submission/">GSoC Final Submission</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2016/05/28/gsoc-with-dhis2-community-bonding/">GSoC with Dhis2 : Community bonding</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2015/08/02/smashdub/">Smashdub</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2015/06/22/chestream-and-angelhack/">Chestream and AngelHack, Delhi</a>
-      </li>
-    
-  </ul>
-</section>
-
-<section>
-  <h1>GitHub Repos</h1>
-  <ul id="gh_repos">
-    <li class="loading">Status updating&#8230;</li>
-  </ul>
-  
-  <a href="https://github.com/laa-1-yay">@laa-1-yay</a> on GitHub
-  
-  <script type="text/javascript">
-    $.domReady(function(){
-        if (!window.jXHR){
-            var jxhr = document.createElement('script');
-            jxhr.type = 'text/javascript';
-            jxhr.src = '/javascripts/libs/jXHR.js';
-            var s = document.getElementsByTagName('script')[0];
-            s.parentNode.insertBefore(jxhr, s);
-        }
-
-        github.showRepos({
-            user: 'laa-1-yay',
-            count: 5,
-            skip_forks: false,
-            target: '#gh_repos'
-        });
-    });
-  </script>
-  <script src="/javascripts/github.js" type="text/javascript"> </script>
-</section>
-
-
-
-<section class="googleplus">
-  <h1>
-    <a href="https://plus.google.com/LAAVANYE BAHL?rel=author">
-      <img src="http://www.google.com/images/icons/ui/gprofile_button-32.png" width="32" height="32">
-      Google+
-    </a>
-  </h1>
-</section>
-
-
-
-<section>
-  <h1>Latest Tweets</h1>
-  <p><a class="twitter-timeline"  href="https://twitter.com/LaavanyeBahl"  data-widget-id="480394190212198400">Tweets by @LaavanyeBahl</a></p>
-    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-
-
-  
-    <p>Follow <a href="http://twitter.com/LaavanyeBahl">@LaavanyeBahl</a></p>
-  
-</section>
-
-
-  
-</aside>
-
-    </div>
-  </div>
-  <footer role="contentinfo"><p>
-  Copyright &copy; 2017 - Laavanye Bahl 
-  <span class="credit"></span>
-</p>
-
-</footer>
-  
-
-<script type="text/javascript">
-      var disqus_shortname = 'laavanye';
-      
-        
-        var disqus_script = 'count.js';
-      
-    (function () {
-      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
-      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    }());
-</script>
-
-
-
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) {return;}
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/all.js#appId=212934732101925&xfbml=1";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-
-
-
-  <script type="text/javascript">
-    (function() {
-      var script = document.createElement('script'); script.type = 'text/javascript'; script.async = true;
-      script.src = 'https://apis.google.com/js/plusone.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(script, s);
-    })();
-  </script>
-
-
-
-  <script type="text/javascript">
-    (function(){
-      var twitterWidgets = document.createElement('script');
-      twitterWidgets.type = 'text/javascript';
-      twitterWidgets.async = true;
-      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
-      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
-    })();
-  </script>
-
-
-
-
-
-</body>
-</html>
+</feed>
