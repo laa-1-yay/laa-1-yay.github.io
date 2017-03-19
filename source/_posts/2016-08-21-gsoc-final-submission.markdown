@@ -56,7 +56,11 @@ In MVP, the Presenter contains the UI business logic for the View. All invocatio
 -Make different Interactors and Stores interfaces for all the resources of dashboards and interprations such as DashboardElement, DashboardItem, Interpretations, InterpretationComment, etc. along with their implementation.  
 -Initialize/ Define the new files in the general modules such as services, persistance, controllers, etc.
 
-A big thank you to my mentor Araz Abishov for the guidance. 
+A big thank you to my mentor Araz Abishov for the guidance and the feedback :
+
+{% img center /images/feedbackgsoc.png  %}
 
 Looking forward to many more open source contributions !
+
+{% img center /images/certigsoc.png  %}
 
