@@ -18,9 +18,9 @@ date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
 subscribe_rss: /atom.xml
-subscribe_email: mail@laavanyebahl.com
+subscribe_email: laavanye.bahl@gmail.com
 # RSS feeds can list your email address if you like
-email: mail@laavanyebahl.com
+email: laavanye.bahl@gmail.com
 
 # ----------------------- #
 #    Jekyll & Plugins     #
